@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Current events</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📰</text></svg>">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap" rel="stylesheet">
+  <style>
+    .subtitled {
+      font-family: 'Cormorant Garamond', serif !important;
+      font-size: 30px !important;
+      font-weight: 400 !important;
+      line-height: 36px !important;
+    }
+
+    .hero.is-white {
+      background-color: #f4f8f9;
+      border-top: 5px solid #e1eaed;
+      border-bottom: 15px solid #e1eaed;
+    }
+
+    .hero-body {
+      align-items: initial !important;
+    }
+
+    a {
+      font-weight: bold;
+    }
+  </style>
+  <script src="content.js?v=20221220170542"></script>
+  <script>
+    function setContent() {
+      document.getElementById('content').innerHTML = content;
+      document.querySelector('#content>ol').classList.add('subtitle', 'subtitled');
+      document.querySelectorAll('#content>ol>li').forEach(el => {
+        el.classList.add('mb-6');
+      });
+    }
+  </script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PKKBES4K22"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-PKKBES4K22');
+  </script>
+  <base href="https://www.wikipedia.org/" />
+</head>
+
+<body onload="setContent();">
+  <section class="hero is-white is-fullheight">
+    <div class="hero-body mt-6 pt-6">
+      <div class="container">
+        <div class="columns is-vcentered">
+          <div id="content" class="column">
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+
+</html>
