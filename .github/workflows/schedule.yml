@@ -1,0 +1,68 @@
+name: Wikipedia - Get `Current events` content
+on:
+  workflow_dispatch:
+#   schedule:
+#     - cron: '09,39 * * * *'
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run script
+        shell: python
+        run: |
+          import requests, os
+          r = requests.get('https://en.wikipedia.org/wiki/Portal:Current_events').text
+          r = r.split('id="Topics_in_the_news"', 1)[1].split('<ul>', 1)[1].split('</ul>', 1)[0]
+          r = ' '.join(r.splitlines())
+          r = '<ol>' + r + '</ol>'
+          r = r.replace("'", r"\'")
+          r = "const content = '" + r + "';"
+          
+          env_file = os.getenv('GITHUB_ENV')
+
+          with open('content.js') as f: 
+            s = f.read().strip()
+            print('current file content:')
+            print(s)
+            print('fetched content:')
+            print(r)
+            if s == r:
+              print('no content change')
+              with open(env_file, 'a') as f:
+                f.write("CHANGE=false\n")
+            else:
+              print('content change')
+              with open(env_file, 'a') as f:
+                f.write("CHANGE=true\nCONTENT=" + r)
+                
+      - name: Update content file and version
+        if: env.CHANGE == 'true'
+        shell: bash
+        run: |
+          echo "updating content file"
+          echo -n "$CONTENT" > 'content.js'
+          echo "updating content version"
+          sed -i 's/content.js?v=[0-9]*/content\.js\?v='"$(date '+%Y%m%d%H%M%S')"'/g' index.html
+            
+      - name: Commit & Push
+        if: env.CHANGE == 'true'
+        uses: Andro999b/push@v1.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+          message: 'update file content'
