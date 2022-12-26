@@ -1,8 +1,9 @@
 name: Wikipedia - Get `Current events` content
 on:
   workflow_dispatch:
-#   schedule:
-#     - cron: '09,39 * * * *'
+  schedule:
+    - cron: '39 * * * *'
+#   - cron: '09,39 * * * *'
     
 jobs:
   build:
