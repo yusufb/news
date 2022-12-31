@@ -44,7 +44,7 @@
 
       const lastUpdate = document.getElementById('content-src').src.split('=')[1];
       const d = new Date(lastUpdate.substr(0, 4) + '-' + lastUpdate.substr(4, 2) + '-' + lastUpdate.substr(6, 2) + 'T' + lastUpdate.substr(8, 2) + ':' + lastUpdate.substr(10, 2) + ':00Z');
-      const month = d.toLocaleString('en-GB', { month: 'short', timeZone: 'UTC' });
+      const month = d.toLocaleString('en-GB', { month: 'short' });
       const dateStr = d.getDate() + ' ' + month + ' at ' + ('0' + d.getHours()).slice(-2) + ":" + ('0' + d.getMinutes()).slice(-2);
       document.getElementById('last-update').innerText = dateStr;
     }
