@@ -44,8 +44,24 @@
 
       const lastUpdate = document.getElementById('content-src').src.split('=')[1];
       const d = new Date(lastUpdate.substr(0, 4) + '-' + lastUpdate.substr(4, 2) + '-' + lastUpdate.substr(6, 2) + 'T' + lastUpdate.substr(8, 2) + ':' + lastUpdate.substr(10, 2) + ':00Z');
-      const month = d.toLocaleString('en-GB', { month: 'short' });
-      const dateStr = d.getDate() + ' ' + month + ' at ' + ('0' + d.getHours()).slice(-2) + ":" + ('0' + d.getMinutes()).slice(-2);
+
+      const dt = new Date();
+      let dateVal;
+      if(dt.toDateString() == d.toDateString()) {
+          dateVal = 'today';
+      } else {
+        dt.setDate(dt.getDate() - 1);
+        if(dt.toDateString() == d.toDateString()) {
+          dateVal = 'yesterday';
+        } else {
+          const month = d.toLocaleString('en-GB', { month: 'short' });
+          dateVal = 'on ' + d.getDate() + ' ' + month;
+        }
+      }
+
+      const dateStr = dateVal + ' at ' + ('0' + d.getHours()).slice(-2) + ":" + ('0' + d.getMinutes()).slice(-2);
+
+
       document.getElementById('last-update').innerText = dateStr;
     }
   </script>
@@ -72,7 +88,7 @@
       </div>
     </div>
     <footer class="has-text-centered has-text-weight-light is-size-7">
-      Last updated on <span id="last-update"><!-- 19 Dec at 05:15 --></span> by <a href="https://github.com/yusufb/news" target="_blank" class="has-text-weight-light is-underlined">@yusufb</a> from <a href="https://en.wikipedia.org/wiki/Portal:Current_events" target="_blank" class="has-text-weight-light is-underlined">Wikipedia</a> 
+      Last updated <span id="last-update"></span> by <a href="https://github.com/yusufb/news" target="_blank" class="has-text-weight-light is-underlined">@yusufb</a> from <a href="https://en.wikipedia.org/wiki/Portal:Current_events" target="_blank" class="has-text-weight-light is-underlined">Wikipedia</a>
     </footer>
   </section>
 </body>
