@@ -48,7 +48,8 @@
       const dt = new Date();
       let dateVal;
       if(dt.toDateString() == d.toDateString()) {
-          dateVal = 'today';
+          //dateVal = 'today';
+          dateVal = '';
       } else {
         dt.setDate(dt.getDate() - 1);
         if(dt.toDateString() == d.toDateString()) {
