@@ -31,7 +31,12 @@ jobs:
           r = ' '.join(r.splitlines())
           ab = bleach.clean(r, attributes = {'a': ['href', 'title']}, strip=True)
           
-          print('content %schanged after bleach' % ('*not* ' if ab==r else ''))
+          if ab != r:
+            print('content change after bleach!')
+            print('before:')
+            print(r)
+            print('after:')
+            print(ab)
           
           r = '<ol>' + ab + '</ol>'
           r = r.replace("'", r"\'").replace(' <i>(pictured)</i>', '').replace('<i>(pictured)</i>', '').replace(' (pictured)', '').replace('(pictured)', '')
