@@ -25,7 +25,7 @@ jobs:
       - name: Run script
         shell: python
         run: |
-          import requests, os
+          import requests, os, bleach
           r = requests.get('https://en.wikipedia.org/wiki/Portal:Current_events').text
           r = r.split('id="Topics_in_the_news"', 1)[1].split('<ul>', 1)[1].split('</ul>', 1)[0]
           r = ' '.join(r.splitlines())
