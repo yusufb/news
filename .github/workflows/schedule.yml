@@ -29,8 +29,11 @@ jobs:
           r = requests.get('https://en.wikipedia.org/wiki/Portal:Current_events').text
           r = r.split('id="Topics_in_the_news"', 1)[1].split('<ul>', 1)[1].split('</ul>', 1)[0]
           r = ' '.join(r.splitlines())
-          r = bleach.clean(r, attributes = {'a': ['href', 'title']}, strip=True)
-          r = '<ol>' + r + '</ol>'
+          ab = bleach.clean(r, attributes = {'a': ['href', 'title']}, strip=True)
+          
+          print('content %schanged after bleach' % ('*not* ' if ab==r else ''))
+          
+          r = '<ol>' + ab + '</ol>'
           r = r.replace("'", r"\'").replace(' <i>(pictured)</i>', '').replace('<i>(pictured)</i>', '').replace(' (pictured)', '').replace('(pictured)', '')
           r = "const content = '" + r + "';"
           
