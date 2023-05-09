@@ -25,7 +25,7 @@ jobs:
       - name: Run script
         shell: python
         run: |
-          import requests, os, bleach
+          import os, re, requests, bleach
           r = requests.get('https://en.wikipedia.org/wiki/Portal:Current_events').text
           r = r.split('id="Topics_in_the_news"', 1)[1].split('<ul>', 1)[1].split('</ul>', 1)[0]
           r = ' '.join(r.splitlines())
@@ -39,8 +39,17 @@ jobs:
             print(ab)
           
           r = '<ol>' + ab + '</ol>'
-          r = r.replace("'", r"\'").replace(' <i>(pictured)</i>', '').replace('<i>(pictured)</i>', '').replace(' (pictured)', '').replace('(pictured)', '')
-          r = "const content = '" + r + "';"
+          r = r.replace("'", r"\'")
+          ar = re.sub(r' ?(<i>)?\(.*?pictured.*?\)(</i>)?', '', r)
+          
+          if ar != r:
+            print('content change after removing picture text:')
+            print('before:')
+            print(r)
+            print('after:')
+            print(ar)          
+          
+          r = "const content = '" + ar + "';"
           
           env_file = os.getenv('GITHUB_ENV')
 
