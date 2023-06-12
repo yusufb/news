@@ -40,7 +40,7 @@ jobs:
           
           r = '<ol>' + ab + '</ol>'
           r = r.replace("'", r"\'")
-          ar = re.sub(r' ?(<i>)?\([^(]*?pictured[^)]*?\)(</i>)?', '', r)
+          ar = re.sub(r' ?(<i>)?\(.*?pictured.*?\)(</i>)?', '', r)
           
           if ar != r:
             print('content change after removing picture text:')
