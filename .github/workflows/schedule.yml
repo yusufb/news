@@ -26,8 +26,8 @@ jobs:
         shell: python
         run: |
           import os, re, requests, bleach
-          def remove_pictured(r):
-            pos = r.find('pictured')
+          def remove_pictured(r, to_remove):
+            pos = r.find(to_remove)
             if pos < 0: return r
             l = len(r)
             while pos < l:
@@ -48,7 +48,7 @@ jobs:
                     break
                 pos -= 1
             if start >= 0 and end >= 0:
-                return (r[0:max(start, 0)] + r[1+end:]).replace(' <i></i>', '').replace('<i></i>', '').replace('  ', ' ').replace(' .', '.').replace(' ,', ',')
+                return (r[0:max(start, 0)] + r[1+end:])
             return r
           r = requests.get('https://en.wikipedia.org/wiki/Portal:Current_events').text
           r = r.split('id="Topics_in_the_news"', 1)[1].split('<ul>', 1)[1].split('</ul>', 1)[0]
@@ -64,7 +64,10 @@ jobs:
           
           r = '<ol>' + ab + '</ol>'
           r = r.replace("'", r"\'")
-          ar = remove_pictured(r)
+          ar = r 
+          ar = remove_pictured(ar, 'pictured')
+          ar = remove_pictured(ar, 'shown')
+          ar = ar.replace(' <i></i>', '').replace('<i></i>', '').replace('  ', ' ').replace(' .', '.').replace(' ,', ',')
           
           if ar != r:
             print('content change after removing picture text:')
