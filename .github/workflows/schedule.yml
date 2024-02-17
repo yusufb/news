@@ -62,7 +62,7 @@ jobs:
             print('after:')
             print(ab)
           
-          r = '<ol>' + ab + '</ol>'
+          r = '<ul>' + ab + '</ul>'
           r = r.replace("'", r"\'")
           ar = r 
           ar = remove_pictured(ar, 'pictured')
