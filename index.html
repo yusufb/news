@@ -36,13 +36,40 @@
     footer {
       background-color: #eef2f4;
     }
+    
+    ul {
+      font-family: monospace;
+      font-size: 2em;
+      list-style: none;
+      margin: 2em;
+      padding: 0;
+    }
+
+    li {
+      margin: 0;
+      margin-bottom: 1em;
+      padding-left: 0.5em;
+      position: relative;
+    }
+
+    li:after {
+      content: '';
+      height: .3em;
+      width: .3em;
+      background: #dae4e9;
+      display: block;
+      position: absolute;
+      transform: rotate(45deg);
+      top: .45em;
+      left: 0;
+    }
   </style>
   <script id="content-src" src="https://yusufb.github.io/news/content.js?v=20240217184445"></script>
   <script>
     function setContent() {
       document.getElementById('content').innerHTML = content;
-      document.querySelector('#content>ol').classList.add('subtitle', 'subtitled');
-      document.querySelectorAll('#content>ol>li').forEach(el => {
+      document.querySelector('#content>ul').classList.add('subtitle', 'subtitled');
+      document.querySelectorAll('#content>ul>li').forEach(el => {
         el.classList.add('mb-6');
       });
 
@@ -83,7 +110,7 @@
 
 <body onload="setContent();">
   <section class="hero is-white is-fullheight">
-    <div class="hero-body mt-6 pt-6">
+    <div class="hero-body mt-0 pt-6">
       <div class="container px-6">
         <div class="columns is-vcentered">
           <div id="content" class="column">
