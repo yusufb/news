@@ -30,13 +30,13 @@ jobs:
             remove_list = ['pictured', 'shown', 'highlighted']
             for to_remove in remove_list:
                 pos = r.find(to_remove)
-                if pos < 0: return r
+                if pos < 0: continue
                 l = len(r)
                 while pos < l:
                     if r[pos] == ')':
                         break
                     pos += 1
-                if pos >= l: return r
+                if pos >= l: continue
                 end = pos
                 close = 0
                 start = -1
@@ -50,7 +50,7 @@ jobs:
                         break
                     pos -= 1
                 if start >= 0 and end >= 0:
-                    return (r[0:max(start, 0)] + r[1+end:])
+                    r = r[0:max(start, 0)] + r[1+end:]
             return r
           r = requests.get('https://en.wikipedia.org/wiki/Portal:Current_events').text
           r = r.split('id="Topics_in_the_news"', 1)[1].split('<ul>', 1)[1].split('</ul>', 1)[0]
