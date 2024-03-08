@@ -26,29 +26,31 @@ jobs:
         shell: python
         run: |
           import os, re, requests, bleach
-          def remove_pictured(r, to_remove):
-            pos = r.find(to_remove)
-            if pos < 0: return r
-            l = len(r)
-            while pos < l:
-                if r[pos] == ')':
-                    break
-                pos += 1
-            if pos >= l: return r
-            end = pos
-            close = 0
-            start = -1
-            while pos >= 0:
-                if r[pos] == ')':
-                    close += 1
-                elif r[pos] == '(':
-                    close -= 1
-                if close == 0:
-                    start = pos
-                    break
-                pos -= 1
-            if start >= 0 and end >= 0:
-                return (r[0:max(start, 0)] + r[1+end:])
+          def remove_pictured(r):
+            remove_list = ['pictured', 'shown', 'highlighted']
+            for to_remove in remove_list:
+                pos = r.find(to_remove)
+                if pos < 0: return r
+                l = len(r)
+                while pos < l:
+                    if r[pos] == ')':
+                        break
+                    pos += 1
+                if pos >= l: return r
+                end = pos
+                close = 0
+                start = -1
+                while pos >= 0:
+                    if r[pos] == ')':
+                        close += 1
+                    elif r[pos] == '(':
+                        close -= 1
+                    if close == 0:
+                        start = pos
+                        break
+                    pos -= 1
+                if start >= 0 and end >= 0:
+                    return (r[0:max(start, 0)] + r[1+end:])
             return r
           r = requests.get('https://en.wikipedia.org/wiki/Portal:Current_events').text
           r = r.split('id="Topics_in_the_news"', 1)[1].split('<ul>', 1)[1].split('</ul>', 1)[0]
@@ -65,8 +67,7 @@ jobs:
           r = '<ul>' + ab + '</ul>'
           r = r.replace("'", r"\'")
           ar = r 
-          ar = remove_pictured(ar, 'pictured')
-          ar = remove_pictured(ar, 'shown')
+          ar = remove_pictured(ar)
           ar = ar.replace(' <i></i>', '').replace('<i></i>', '').replace('  ', ' ').replace(' .', '.').replace(' ,', ',')
           
           if ar != r:
