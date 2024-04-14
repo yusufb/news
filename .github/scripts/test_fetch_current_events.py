@@ -73,7 +73,7 @@ test_data = [
 ),
 (
 '<li>In <a href="/wiki/American_football" title="American football">American football</a>, the <a href="/wiki/Kansas_City_Chiefs" title="Kansas City Chiefs">Kansas City Chiefs</a> defeat the <a href="/wiki/Philadelphia_Eagles" title="Philadelphia Eagles">Philadelphia Eagles</a> in <b><a href="/wiki/Super_Bowl_LVII" title="Super Bowl LVII">the Super Bowl</a></b> (<a href="/wiki/Super_Bowl_Most_Valuable_Player_Award" title="Super Bowl Most Valuable Player Award">MVP</a> <a href="/wiki/Patrick_Mahomes" title="Patrick Mahomes">Patrick Mahomes</a> pictured).</li>',  
-'<li>In <a href="/wiki/American_football" title="American football">American football</a>, the <a href="/wiki/Kansas_City_Chiefs" title="Kansas City Chiefs">Kansas City Chiefs</a> defeat the <a href="/wiki/Philadelphia_Eagles" title="Philadelphia Eagles">Philadelphia Eagles</a> in <b><a href="/wiki/Super_Bowl_LVII" title="Super Bowl LVII">the Super Bowl</a></b>.</li>'  
+'<li>In <a href="/wiki/American_football" title="American football">American football</a>, -tmp- the <a href="/wiki/Kansas_City_Chiefs" title="Kansas City Chiefs">Kansas City Chiefs</a> defeat the <a href="/wiki/Philadelphia_Eagles" title="Philadelphia Eagles">Philadelphia Eagles</a> in <b><a href="/wiki/Super_Bowl_LVII" title="Super Bowl LVII">the Super Bowl</a></b>.</li>'  
 ),
 (
 '<li>The final <b><a href="/wiki/Boeing_747" title="Boeing 747">Boeing 747</a></b> (prototype pictured) to be built rolls off the assembly line at <a href="/wiki/Everett,_Washington" title="Everett, Washington">Everett, Washington</a>, United States.</li>',  
