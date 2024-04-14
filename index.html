@@ -45,6 +45,19 @@
       padding: 0;
     }
 
+    @media (max-width: 600px) {
+    ul {
+        margin: 0;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+    .px-0-mobile {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        }
+    }
+
     li {
       margin: 0;
       margin-bottom: 1em;
@@ -111,7 +124,7 @@
 <body onload="setContent();">
   <section class="hero is-white is-fullheight">
     <div class="hero-body mt-0 pt-6">
-      <div class="container px-6">
+      <div class="container px-6 px-0-mobile">
         <div class="columns is-vcentered">
           <div id="content" class="column">
 
