@@ -22,7 +22,7 @@ jobs:
           pip install requests bleach
 
       - name: Run fetch script
-        run: python .github/workflows/fetch_current_events.py
+        run: python .github/scripts/fetch_current_events.py
                 
       - name: Update content file and version
         if: env.CHANGE == 'true'
