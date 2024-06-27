@@ -138,6 +138,10 @@ test_data = [
 (
 '<li><b><a href="/wiki/Hurricane_Otis" title="Hurricane Otis">Hurricane Otis</a></b> <i>(satellite image shown)</i> makes landfall near <a href="/wiki/Acapulco" title="Acapulco">Acapulco</a>, Mexico, leaving at least 39 people dead.</li>',
 '<li><b><a href="/wiki/Hurricane_Otis" title="Hurricane Otis">Hurricane Otis</a></b> makes landfall near <a href="/wiki/Acapulco" title="Acapulco">Acapulco</a>, Mexico, leaving at least 39 people dead.</li>',
+),
+(
+'<li>In <a href="/wiki/Ice_hockey" title="Ice hockey">ice hockey</a>, the <a href="/wiki/Florida_Panthers" title="Florida Panthers">Florida Panthers</a> <i>(captain <a href="/wiki/Aleksander_Barkov" title="Aleksander Barkov">Aleksander Barkov</a> pictured)</i> defeat the <a href="/wiki/Edmonton_Oilers" title="Edmonton Oilers">Edmonton Oilers</a> to win <b><a href="/wiki/2024_Stanley_Cup_Finals" title="2024 Stanley Cup Finals">the Stanley Cup Finals</a></b>.</li>',
+'<li>In <a href="/wiki/Ice_hockey" title="Ice hockey">ice hockey</a>, the <a href="/wiki/Florida_Panthers" title="Florida Panthers">Florida Panthers</a> defeat the <a href="/wiki/Edmonton_Oilers" title="Edmonton Oilers">Edmonton Oilers</a> to win <b><a href="/wiki/2024_Stanley_Cup_Finals" title="2024 Stanley Cup Finals">the Stanley Cup Finals</a></b>.</li>',
 )
 ]
 
