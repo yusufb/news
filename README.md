@@ -6,4 +6,4 @@ Just a perfect choice for your browser's homepage. 👌
 
 Here's how it looks like:
 
-<img width="855" alt="news" src="https://github.com/user-attachments/assets/d8f6d624-829e-4b3b-a3ed-2da7862607cb">
+[![yusufb/news](https://github.com/user-attachments/assets/d8f6d624-829e-4b3b-a3ed-2da7862607cb)](https://yusufb.github.io/news/)
