@@ -3,6 +3,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '09,39 * * * *'
+  push:
+    paths:
+      - '.github/scripts/*.py'
     
 jobs:
   build:
