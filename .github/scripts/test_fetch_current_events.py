@@ -142,6 +142,10 @@ test_data = [
 (
 '<li>In <a href="/wiki/Snow_Hockey" title="Snow Hockey">snow hockey</a>, the <a href="/wiki/Flamingo_Flurries" title="Flamingo Flurries">Flamingo Flurries</a> <i>(captain <a href="/wiki/Alexander_Peck" title="Alexander Peck">Alexander Peck</a> pictured)</i> defeat the <a href="/wiki/Badger_Blizzards" title="Badger Blizzards">Badger Blizzards</a> to win <b><a href="/wiki/2024_Snowflake_Cup_Finals" title="2024 Snowflake Cup Finals">the Snowflake Cup Finals</a></b>.</li>',
 '<li>In <a href="/wiki/Snow_Hockey" title="Snow Hockey">snow hockey</a>, the <a href="/wiki/Flamingo_Flurries" title="Flamingo Flurries">Flamingo Flurries</a> defeat the <a href="/wiki/Badger_Blizzards" title="Badger Blizzards">Badger Blizzards</a> to win <b><a href="/wiki/2024_Snowflake_Cup_Finals" title="2024 Snowflake Cup Finals">the Snowflake Cup Finals</a></b>.</li>',
+),
+(
+'<li><b><a href="/wiki/2024_Queen\'s_Croquet_Tournament" title="2024 Queen\'s Croquet Tournament">The Queen\'s Croquet Tournament</a></b> <a href="/wiki/2024_Queen\'s_Croquet_Tournament_opening_ceremony" title="2024 Queen\'s Croquet Tournament opening ceremony">open</a> <i>(<a href="/wiki/2024_Croquet_Cauldron" title="2024 Croquet Cauldron">cauldron</a> lighting pictured)</i> in <a href="/wiki/Wonderland" title="Wonderland">Wonderland</a>.</li>',
+'<li><b><a href="/wiki/2024_Queen\'s_Croquet_Tournament" title="2024 Queen\'s Croquet Tournament">The Queen\'s Croquet Tournament</a></b> <a href="/wiki/2024_Queen\'s_Croquet_Tournament_opening_ceremony" title="2024 Queen\'s Croquet Tournament opening ceremony">open</a> in <a href="/wiki/Wonderland" title="Wonderland">Wonderland</a>.</li>'
 )
 ]
 
