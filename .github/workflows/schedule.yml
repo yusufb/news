@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '09,39 * * * *'
   push:
+    branches:
+      - main
     paths:
       - '.github/scripts/*.py'
     
