@@ -52,7 +52,8 @@ def process_content():
     print('after:')
     print(ar)          
 
-  r = "const content = '" + ar + "';"
+  ar = ar.replace("<li>", "\n<li>").replace("</ul>", "\n</ul>")
+  r = "const content = `" + ar + "`;"
 
   env_file = os.getenv('GITHUB_ENV')
 
