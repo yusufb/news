@@ -53,7 +53,7 @@ def process_content():
     print(ar)          
 
   ar = ar.replace("<li>", "\n<li>").replace("</ul>", "\n</ul>")
-  r = "const content = `" + ar + "`;"
+  r = "const content = `" + ar.replace('`', '\\`') + "`;"
 
   env_file = os.getenv('GITHUB_ENV')
 
@@ -63,14 +63,17 @@ def process_content():
     print(s)
     print('fetched content:')
     print(r)
+    
     if s == r:
       print('no content change')
       with open(env_file, 'a') as f:
         f.write("CHANGE=false\n")
     else:
       print('content change')
+      with open('tmp_content.js', 'w') as tmp_file:
+        tmp_file.write(r)
       with open(env_file, 'a') as f:
-        f.write("CHANGE=true\nCONTENT=" + r)
+        f.write("CHANGE=true\n")
 
 if __name__ == '__main__':
   process_content()
