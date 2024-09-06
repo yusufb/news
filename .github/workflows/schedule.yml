@@ -37,7 +37,7 @@ jobs:
         shell: bash
         run: |
           echo "updating content file"
-          mv temp_content.js content.js
+          mv tmp_content.js content.js
           echo "updating content version"
           sed -i 's/content.js?v=[0-9]*/content\.js\?v='"$(date '+%Y%m%d%H%M%S')"'/g' index.html
             
