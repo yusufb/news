@@ -1,6 +1,6 @@
 const content = `<ul>
 <li><b><a href="/wiki/Typhoon_Yagi" title="Typhoon Yagi">Typhoon Yagi</a></b> leaves at least 40 people dead in China, Vietnam, and the Philippines.</li> 
-<li><b><a href="/wiki/2024_Makala_prison_jailbreak_attempt" title="2024 Makala prison jailbreak attempt">An attempted jailbreak</a></b> at <a href="/wiki/Makala_Central_Prison" title="Makala Central Prison">Makala Central Prison</a>, Democratic Republic of the Congo, leaves 129 people dead.</li> 
+<li><b><a href="/wiki/2024_Makala_prison_jailbreak_attempt" title="2024 Makala prison jailbreak attempt">An attempted jailbreak</a></b> at <a href="/wiki/Makala_Central_Prison" title="Makala Central Prison">Makala Central Prison</a> in <a href="/wiki/Kinshasa" title="Kinshasa">Kinshasa</a>, Democratic Republic of the Congo, leaves 129 people dead.</li> 
 <li>A <a href="/wiki/Mil_Mi-8" title="Mil Mi-8">Mil Mi-8</a> helicopter <b><a href="/wiki/2024_Kamchatka_Mil_Mi-8_crash" title="2024 Kamchatka Mil Mi-8 crash">crashes</a></b> in <a href="/wiki/Kamchatka_Krai" title="Kamchatka Krai">Kamchatka</a>, Russia, killing all 22 people on board.</li> 
 <li><b><a href="/wiki/2024_Summer_Paralympics" title="2024 Summer Paralympics">The Summer Paralympics</a></b> <a href="/wiki/2024_Summer_Paralympics_closing_ceremony" title="2024 Summer Paralympics closing ceremony">close</a> in <a href="/wiki/Paris" title="Paris">Paris</a>, France.</li>
 </ul>`;
