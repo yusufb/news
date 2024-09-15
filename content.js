@@ -1,7 +1,7 @@
 const content = `<ul>
 <li>Former <a href="/wiki/President_of_Peru" title="President of Peru">president of Peru</a> <b><a href="/wiki/Alberto_Fujimori" title="Alberto Fujimori">Alberto Fujimori</a></b> dies at the age of 86.</li> 
 <li><b><a href="/wiki/Borno_State_flooding" title="Borno State flooding">Flooding</a></b> following <a href="/wiki/Alau_Dam" title="Alau Dam">a dam collapse</a> in <a href="/wiki/Borno_State" title="Borno State">Borno State</a>, Nigeria, leaves 30 people dead.</li> 
-<li><b><a href="/wiki/Typhoon_Yagi" title="Typhoon Yagi">Typhoon Yagi</a></b> leaves more than 790 people dead across seven Asian countries.</li> 
+<li><b><a href="/wiki/Typhoon_Yagi" title="Typhoon Yagi">Typhoon Yagi</a></b> leaves more than 780 people dead across six Asian countries.</li> 
 <li><a href="/wiki/Abdelmadjid_Tebboune" title="Abdelmadjid Tebboune">Abdelmadjid Tebboune</a> is declared the winner of <b><a href="/wiki/2024_Algerian_presidential_election" title="2024 Algerian presidential election">the Algerian presidential election</a></b> amid a dispute over the election\'s turnout.</li> 
 <li><b><a href="/wiki/Michel_Barnier" title="Michel Barnier">Michel Barnier</a></b> is appointed <a href="/wiki/Prime_Minister_of_France" title="Prime Minister of France">prime minister of France</a> by President <a href="/wiki/Emmanuel_Macron" title="Emmanuel Macron">Emmanuel Macron</a>, leading to <a href="/wiki/French_anti-Barnier_government_protests" title="French anti-Barnier government protests">nationwide anti-government protests</a>.</li>
 </ul>`;
