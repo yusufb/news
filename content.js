@@ -1,6 +1,6 @@
 const content = `<ul>
 <li><a href="/wiki/Hezbollah" title="Hezbollah">Hezbollah</a> leader <a href="/wiki/Hassan_Nasrallah" title="Hassan Nasrallah">Hassan Nasrallah</a> is <b><a href="/wiki/2024_Hezbollah_headquarters_strike" title="2024 Hezbollah headquarters strike">killed by an Israeli airstrike</a></b> in <a href="/wiki/Dahieh" title="Dahieh">Dahieh</a>, Lebanon.</li> 
-<li><b><a href="/wiki/Hurricane_Helene" title="Hurricane Helene">Hurricane Helene</a></b> makes landfall near <a href="/wiki/Perry,_Florida" title="Perry, Florida">Perry, Florida</a>, United States, as a <a href="/wiki/Saffir%E2%80%93Simpson_scale" title="Saffir–Simpson scale">Category 4</a> hurricane.</li> 
-<li>British actress <b><a href="/wiki/Maggie_Smith" title="Maggie Smith">Maggie Smith</a></b> dies at age of 89.</li> 
+<li><b><a href="/wiki/Hurricane_Helene" title="Hurricane Helene">Hurricane Helene</a></b> leaves more than 100 people dead across the southeastern United States.</li> 
+<li>British actress <b><a href="/wiki/Maggie_Smith" title="Maggie Smith">Maggie Smith</a></b> dies at the age of 89.</li> 
 <li><a href="/wiki/Anura_Kumara_Dissanayake" title="Anura Kumara Dissanayake">Anura Kumara Dissanayake</a> <b><a href="/wiki/2024_Sri_Lankan_presidential_election" title="2024 Sri Lankan presidential election">is elected</a></b> <a href="/wiki/President_of_Sri_Lanka" title="President of Sri Lanka">President of Sri Lanka</a>.</li>
 </ul>`;
