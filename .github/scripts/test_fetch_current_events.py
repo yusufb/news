@@ -146,6 +146,10 @@ test_data = [
 (
 '<li><b><a href="/wiki/2024_Queen\'s_Croquet_Tournament" title="2024 Queen\'s Croquet Tournament">The Queen\'s Croquet Tournament</a></b> <a href="/wiki/2024_Queen\'s_Croquet_Tournament_opening_ceremony" title="2024 Queen\'s Croquet Tournament opening ceremony">open</a> <i>(<a href="/wiki/2024_Croquet_Cauldron" title="2024 Croquet Cauldron">cauldron</a> lighting pictured)</i> in <a href="/wiki/Wonderland" title="Wonderland">Wonderland</a>.</li>',
 '<li><b><a href="/wiki/2024_Queen\'s_Croquet_Tournament" title="2024 Queen\'s Croquet Tournament">The Queen\'s Croquet Tournament</a></b> <a href="/wiki/2024_Queen\'s_Croquet_Tournament_opening_ceremony" title="2024 Queen\'s Croquet Tournament opening ceremony">open</a> in <a href="/wiki/Wonderland" title="Wonderland">Wonderland</a>.</li>'
+),
+(
+'<li>In <a href="/wiki/Royal_Croquet" title="Royal Croquet">royal croquet</a>, the <a href="/wiki/Cheshire_Cats" title="Cheshire Cats">Cheshire Cats</a> defeat the <a href="/wiki/Hatters" title="Hatters">Hatters</a> to win <b><a href="/wiki/2024_Wonderland_Croquet_Final" title="2024 Wonderland Croquet Final">the Wonderland Croquet Final</a></b> <i>(<a href="/wiki/Golden_Mallet_Medal" title="Golden Mallet Medal">Golden Mallet Medal</a> winner <a href="/wiki/White_Rabbit" title="White Rabbit">White Rabbit</a> pictured)</i>.</li>',
+'<li>In <a href="/wiki/Royal_Croquet" title="Royal Croquet">royal croquet</a>, the <a href="/wiki/Cheshire_Cats" title="Cheshire Cats">Cheshire Cats</a> defeat the <a href="/wiki/Hatters" title="Hatters">Hatters</a> to win <b><a href="/wiki/2024_Wonderland_Croquet_Final" title="2024 Wonderland Croquet Final">the Wonderland Croquet Final</a></b>.</li>'
 )
     
 ]
