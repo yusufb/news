@@ -1,6 +1,6 @@
 const content = `<ul>
+<li>In the <a href="/wiki/Australian_Football_League" title="Australian Football League">Australian Football League</a>, the <a href="/wiki/Brisbane_Lions" title="Brisbane Lions">Brisbane Lions</a> defeat the <a href="/wiki/Sydney_Swans" title="Sydney Swans">Sydney Swans</a> to win <b><a href="/wiki/2024_AFL_Grand_Final" title="2024 AFL Grand Final">the Grand Final</a></b>.</li> 
 <li><a href="/wiki/Hezbollah" title="Hezbollah">Hezbollah</a> leader <a href="/wiki/Hassan_Nasrallah" title="Hassan Nasrallah">Hassan Nasrallah</a> is <b><a href="/wiki/2024_Hezbollah_headquarters_strike" title="2024 Hezbollah headquarters strike">killed by an Israeli airstrike</a></b> in <a href="/wiki/Dahieh" title="Dahieh">Dahieh</a>, Lebanon.</li> 
 <li><b><a href="/wiki/Hurricane_Helene" title="Hurricane Helene">Hurricane Helene</a></b> leaves more than 100 people dead across the southeastern United States.</li> 
-<li>British actress <b><a href="/wiki/Maggie_Smith" title="Maggie Smith">Maggie Smith</a></b> dies at the age of 89.</li> 
-<li><a href="/wiki/Anura_Kumara_Dissanayake" title="Anura Kumara Dissanayake">Anura Kumara Dissanayake</a> <b><a href="/wiki/2024_Sri_Lankan_presidential_election" title="2024 Sri Lankan presidential election">is elected</a></b> <a href="/wiki/President_of_Sri_Lanka" title="President of Sri Lanka">President of Sri Lanka</a>.</li>
+<li>British actress <b><a href="/wiki/Maggie_Smith" title="Maggie Smith">Maggie Smith</a></b> dies at the age of 89.</li>
 </ul>`;
