@@ -1,7 +1,7 @@
 const content = `<ul>
+<li>Amid escalating tensions in the Middle East, <b><a href="/wiki/2024_Israeli_invasion_of_Lebanon" title="2024 Israeli invasion of Lebanon">Israel invades Lebanon</a></b> and Iran <b><a href="/wiki/October_2024_Iranian_strikes_against_Israel" title="October 2024 Iranian strikes against Israel">launches strikes</a></b> against Israel.</li> 
 <li><b><a href="/wiki/2024_Nepal_floods" title="2024 Nepal floods">Flooding in Nepal</a></b> leaves more than 200 people dead, including 37 in the nation\'s capital, <a href="/wiki/Kathmandu" title="Kathmandu">Kathmandu</a>.</li> 
 <li>In <a href="/wiki/Australian_rules_football" title="Australian rules football">Australian rules football</a>, the <a href="/wiki/Brisbane_Lions" title="Brisbane Lions">Brisbane Lions</a> defeat the <a href="/wiki/Sydney_Swans" title="Sydney Swans">Sydney Swans</a> to win <b><a href="/wiki/2024_AFL_Grand_Final" title="2024 AFL Grand Final">the AFL Grand Final</a></b>.</li> 
-<li><a href="/wiki/Hezbollah" title="Hezbollah">Hezbollah</a> leader <a href="/wiki/Hassan_Nasrallah" title="Hassan Nasrallah">Hassan Nasrallah</a> is <b><a href="/wiki/2024_Hezbollah_headquarters_strike" title="2024 Hezbollah headquarters strike">killed by an Israeli airstrike</a></b> in <a href="/wiki/Dahieh" title="Dahieh">Dahieh</a>, Lebanon.</li> 
 <li><b><a href="/wiki/Hurricane_Helene" title="Hurricane Helene">Hurricane Helene</a></b> leaves more than 100 people dead across the southeastern United States.</li> 
 <li>British actress <b><a href="/wiki/Maggie_Smith" title="Maggie Smith">Maggie Smith</a></b> dies at the age of 89.</li>
 </ul>`;
