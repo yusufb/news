@@ -1,6 +1,6 @@
 const content = `<ul>
 <li>In <b><a href="/wiki/2024_Japanese_general_election" title="2024 Japanese general election">the Japanese general election</a></b>, the <a href="/wiki/Liberal_Democratic_Party_(Japan)" title="Liberal Democratic Party (Japan)">LDP</a>-led <a href="/wiki/Ishiba_Cabinet" title="Ishiba Cabinet">ruling coalition</a> loses its majority in the <a href="/wiki/House_of_Representatives_(Japan)" title="House of Representatives (Japan)">House of Representatives</a>.</li> 
 <li><a href="/wiki/Georgian_Dream" title="Georgian Dream">Georgian Dream</a> wins <b><a href="/wiki/2024_Georgian_parliamentary_election" title="2024 Georgian parliamentary election">the parliamentary election</a></b> in Georgia amidst allegations of voting irregularities.</li> 
-<li>Protests break out in <a href="/wiki/Cuba" title="Cuba">Cuba</a> after a <b><a href="/wiki/2024_Cuba_blackouts" title="2024 Cuba blackouts">nationwide electrical blackout</a></b> and the landfall of <a href="/wiki/Hurricane_Oscar_(2024)" title="Hurricane Oscar (2024)">Hurricane Oscar</a>.</li> 
+<li>Protests break out in Cuba after <b><a href="/wiki/2024_Cuba_blackouts" title="2024 Cuba blackouts">a nationwide electrical blackout</a></b> and the landfall of <a href="/wiki/Hurricane_Oscar_(2024)" title="Hurricane Oscar (2024)">Hurricane Oscar</a>.</li> 
 <li><b><a href="/wiki/Tropical_Storm_Trami_(2024)" title="Tropical Storm Trami (2024)">Tropical Storm Trami</a></b> leaves more than 150 people dead in the Philippines.</li>
 </ul>`;
