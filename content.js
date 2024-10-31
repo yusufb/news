@@ -1,6 +1,6 @@
 const content = `<ul>
 <li>In baseball, the <a href="/wiki/Los_Angeles_Dodgers" title="Los Angeles Dodgers">Los Angeles Dodgers</a> defeat the <a href="/wiki/New_York_Yankees" title="New York Yankees">New York Yankees</a> to win <b><a href="/wiki/2024_World_Series" title="2024 World Series">the World Series</a></b>.</li> 
-<li><b><a href="/wiki/October_2024_Spain_floods" title="October 2024 Spain floods">Flooding</a></b> in Spain kills at least 158 people.</li> 
+<li><b><a href="/wiki/October_2024_Spain_floods" title="October 2024 Spain floods">Flooding</a></b> in Spain kills more than 160 people.</li> 
 <li>In <b><a href="/wiki/2024_Japanese_general_election" title="2024 Japanese general election">the Japanese general election</a></b>, the <a href="/wiki/Liberal_Democratic_Party_(Japan)" title="Liberal Democratic Party (Japan)">LDP</a>-led <a href="/wiki/Ishiba_Cabinet" title="Ishiba Cabinet">ruling coalition</a> loses its majority in the <a href="/wiki/House_of_Representatives_(Japan)" title="House of Representatives (Japan)">House of Representatives</a>.</li> 
 <li><a href="/wiki/Georgian_Dream" title="Georgian Dream">Georgian Dream</a> wins <b><a href="/wiki/2024_Georgian_parliamentary_election" title="2024 Georgian parliamentary election">the parliamentary election</a></b> in Georgia amidst allegations of voting irregularities.</li>
 </ul>`;
