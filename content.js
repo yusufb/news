@@ -1,6 +1,6 @@
 const content = `<ul>
-<li>An ancient <a href="/wiki/Maya_civilization" title="Maya civilization">Maya</a> city, the second-largest in the Yucatán peninsula, dubbed <b><a href="/wiki/Valeriana_(city)" title="Valeriana (city)">Valeriana</a></b>, is discovered in <a href="/wiki/Campeche" title="Campeche">Campeche</a>, Mexico.</li> 
-<li>The <a href="/wiki/2024_Botswana_general_election" title="2024 Botswana general election">Botswana general election</a> is won by the opposition <a href="/wiki/Umbrella_for_Democratic_Change" title="Umbrella for Democratic Change">Umbrella for Democratic Change</a> led by <b><a href="/wiki/Duma_Boko" title="Duma Boko">Duma Boko</a></b>.</li> 
+<li>A <a href="/wiki/Maya_civilization" title="Maya civilization">Maya</a> city, dubbed <b><a href="/wiki/Valeriana_(city)" title="Valeriana (city)">Valeriana</a></b>, is discovered in <a href="/wiki/Campeche" title="Campeche">Campeche</a>, Mexico.</li> 
+<li><b><a href="/wiki/2024_Botswana_general_election" title="2024 Botswana general election">The Botswana general election</a></b> is won by the opposition <a href="/wiki/Umbrella_for_Democratic_Change" title="Umbrella for Democratic Change">Umbrella for Democratic Change</a>, led by <a href="/wiki/Duma_Boko" title="Duma Boko">Duma Boko</a>.</li> 
 <li>In baseball, the <a href="/wiki/Los_Angeles_Dodgers" title="Los Angeles Dodgers">Los Angeles Dodgers</a> defeat the <a href="/wiki/New_York_Yankees" title="New York Yankees">New York Yankees</a> to win <b><a href="/wiki/2024_World_Series" title="2024 World Series">the World Series</a></b>.</li> 
 <li><b><a href="/wiki/October_2024_Spain_floods" title="October 2024 Spain floods">Flooding</a></b> in Spain kills more than 200 people.</li>
 </ul>`;
