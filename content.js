@@ -1,6 +1,6 @@
 const content = `<ul>
 <li><b><a href="/wiki/Novi_Sad_railway_station_canopy_collapse" title="Novi Sad railway station canopy collapse">A canopy collapse</a></b> at Serbia\'s <a href="/wiki/Novi_Sad_railway_station" title="Novi Sad railway station">Novi Sad railway station</a> kills fourteen people.</li> 
 <li>The ruins of a <a href="/wiki/Maya_civilization" title="Maya civilization">Maya</a> city, dubbed <b><a href="/wiki/Valeriana_(city)" title="Valeriana (city)">Valeriana</a></b>, are discovered in <a href="/wiki/Campeche" title="Campeche">Campeche</a>, Mexico.</li> 
-<li><b><a href="/wiki/2024_Botswana_general_election" title="2024 Botswana general election">The Botswana general election</a></b> is won by the opposition <a href="/wiki/Umbrella_for_Democratic_Change" title="Umbrella for Democratic Change">Umbrella for Democratic Change</a>, led by <a href="/wiki/Duma_Boko" title="Duma Boko">Duma Boko</a>.</li> 
+<li><b><a href="/wiki/2024_Botswana_general_election" title="2024 Botswana general election">The Botswana general election</a></b> is won by the opposition <a href="/wiki/Umbrella_for_Democratic_Change" title="Umbrella for Democratic Change">Umbrella for Democratic Change</a>.</li> 
 <li>In baseball, the <a href="/wiki/Los_Angeles_Dodgers" title="Los Angeles Dodgers">Los Angeles Dodgers</a> defeat the <a href="/wiki/New_York_Yankees" title="New York Yankees">New York Yankees</a> to win <b><a href="/wiki/2024_World_Series" title="2024 World Series">the World Series</a></b>.</li>
 </ul>`;
