@@ -2,7 +2,7 @@ import pytest
 from fetch_current_events import remove_pictured
 
 test_data = (
- 	(
+    (
         '01<li><a href="/wiki/King_of_Hearts" title="King of Hearts">King of Hearts</a> and <a href="/wiki/Queen_of_Hearts" title="Queen of Hearts">Queen of Hearts</a> <i>(both pictured)</i> of Wonderland <b><a href="/wiki/Crowning_of_the_Queen_of_Hearts" title="Crowning of the Queen of Hearts">are crowned</a></b> at <a href="/wiki/Tulgey_Wood" title="Tulgey Wood">Tulgey Wood</a> in Wonderland.</li>',
         '01<li><a href="/wiki/King_of_Hearts" title="King of Hearts">King of Hearts</a> and <a href="/wiki/Queen_of_Hearts" title="Queen of Hearts">Queen of Hearts</a> of Wonderland <b><a href="/wiki/Crowning_of_the_Queen_of_Hearts" title="Crowning of the Queen of Hearts">are crowned</a></b> at <a href="/wiki/Tulgey_Wood" title="Tulgey Wood">Tulgey Wood</a> in Wonderland.</li>'
     ),
@@ -153,7 +153,7 @@ test_data = (
     (
         '38<li><a href="/wiki/Queens_Royal_Tea_Party" title="Queen\'s Royal Tea Party">The Queen\'s Royal Tea Party</a> <i>(President <a href="/wiki/White_Rabbit" title="The White Rabbit">The White Rabbit</a> pictured)</i> <b><a href="/wiki/2024_Wonderland_Crisis" title="2024 Wonderland Crisis">begins to unravel</a></b> over a tangle of <a href="/wiki/Wonderland_Turmoil" title="Wonderland Turmoil">curiosities</a>.</li>',
         '38<li><a href="/wiki/Queens_Royal_Tea_Party" title="Queen\'s Royal Tea Party">The Queen\'s Royal Tea Party</a> <b><a href="/wiki/2024_Wonderland_Crisis" title="2024 Wonderland Crisis">begins to unravel</a></b> over a tangle of <a href="/wiki/Wonderland_Turmoil" title="Wonderland Turmoil">curiosities</a>.</li>'
-	),
+    ),
 )
 
 @pytest.mark.parametrize("input_html, expected_output", test_data)
