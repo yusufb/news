@@ -1,5 +1,5 @@
 const content = `<ul>
-<li><b><a href="/wiki/Azerbaijan_Airlines_Flight_8243" title="Azerbaijan Airlines Flight 8243">Azerbaijan Airlines Flight 8243</a></b> crashes near <a href="/wiki/Aqtau_International_Airport" title="Aqtau International Airport">Aqtau International Airport</a>, Kazakhstan, killing 38 people.</li> 
+<li><b><a href="/wiki/Azerbaijan_Airlines_Flight_8243" title="Azerbaijan Airlines Flight 8243">Azerbaijan Airlines Flight 8243</a></b> crashes near <a href="/wiki/Aktau_International_Airport" title="Aktau International Airport">Aktau International Airport</a>, Kazakhstan, killing 38 people.</li> 
 <li><b><a href="/wiki/Minas_Gerais_road_crash" title="Minas Gerais road crash">A multi-vehicle crash</a></b> in <a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>, Brazil, leaves 41 people dead.</li> 
 <li><b><a href="/wiki/2024_Magdeburg_car_attack" title="2024 Magdeburg car attack">A car attack</a></b> at a Christmas market in <a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a>, Germany, kills five people and injures more than two hundred others.</li> 
 <li>In France, Dominique Pelicot and 49 other men are convicted of <b><a href="/wiki/Mazan_rapes" title="Mazan rapes">the serial rape</a></b> of his then-wife <a href="/wiki/Gis%C3%A8le_Pelicot" title="Gisèle Pelicot">Gisèle Pelicot</a>.</li>
