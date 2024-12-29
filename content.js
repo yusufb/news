@@ -1,5 +1,5 @@
 const content = `<ul>
-<li><b><a href="/wiki/Jeju_Air_Flight_2216" title="Jeju Air Flight 2216">Jeju Air Flight 2216</a></b> crashes at <a href="/wiki/Muan_International_Airport" title="Muan International Airport">Muan International Airport</a>, South Korea, killing at least 62 people.</li> 
+<li><b><a href="/wiki/Jeju_Air_Flight_2216" title="Jeju Air Flight 2216">Jeju Air Flight 2216</a></b> crashes at <a href="/wiki/Muan_International_Airport" title="Muan International Airport">Muan International Airport</a>, South Korea, killing at least 85 people.</li> 
 <li>Former <a href="/wiki/Prime_Minister_of_India" title="Prime Minister of India">prime minister of India</a> <b><a href="/wiki/Manmohan_Singh" title="Manmohan Singh">Manmohan Singh</a></b> dies at the age of 92.</li> 
 <li><b><a href="/wiki/Azerbaijan_Airlines_Flight_8243" title="Azerbaijan Airlines Flight 8243">Azerbaijan Airlines Flight 8243</a></b> crashes near <a href="/wiki/Aktau_International_Airport" title="Aktau International Airport">Aktau International Airport</a>, Kazakhstan, killing 38 people.</li> 
 <li>The <b><a href="/wiki/Parker_Solar_Probe" title="Parker Solar Probe">Parker Solar Probe</a></b> makes its closest approach to the <a href="/wiki/Sun" title="Sun">Sun</a>.</li> 
