@@ -1,5 +1,5 @@
 const content = `<ul>
-<li><a href="/wiki/Romania" title="Romania">Romania</a> and <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> become full members of the <b><a href="/wiki/Schengen_Area" title="Schengen Area">Schengen Area</a></b>.</li> 
+<li>Romania and Bulgaria become full members of the <b><a href="/wiki/Schengen_Area" title="Schengen Area">Schengen Area</a></b>.</li> 
 <li>In <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a>, an attacker <b><a href="/wiki/2025_New_Orleans_truck_attack" title="2025 New Orleans truck attack">rams a truck into a crowd and opens fire</a></b>, killing at least 14 people and injuring 35 others.</li> 
 <li><a href="/wiki/Mikheil_Kavelashvili" title="Mikheil Kavelashvili">Mikheil Kavelashvili</a> is inaugurated as <a href="/wiki/President_of_Georgia" title="President of Georgia">president of Georgia</a> while incumbent <a href="/wiki/Salome_Zourabichvili" title="Salome Zourabichvili">Salome Zourabichvili</a> intends to remain in office amidst <b><a href="/wiki/2024%E2%80%932025_Georgian_constitutional_crisis" title="2024–2025 Georgian constitutional crisis">a constitutional crisis</a></b>.</li>
 </ul>`;
