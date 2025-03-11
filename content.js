@@ -1,5 +1,5 @@
 const content = `<ul>
-<li><a href="/wiki/Intuitive_Machines" title="Intuitive Machines">Intuitive Machines</a>\'s <i><b><a href="/wiki/IM-2" title="IM-2">Athena</a></b></i> lands on the Moon at an incorrect angle and is unable to complete its mission.</li> 
+<li><a href="/wiki/Intuitive_Machines" title="Intuitive Machines">Intuitive Machines</a>\' <i><b><a href="/wiki/IM-2" title="IM-2">Athena</a></b></i> lands on the Moon at an incorrect angle and is unable to complete its mission.</li> 
 <li>In computing, <b><a href="/wiki/Andrew_Barto" title="Andrew Barto">Andrew Barto</a></b> and <b><a href="/wiki/Richard_S._Sutton" title="Richard S. Sutton">Richard Sutton</a></b> are awarded the <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> for their work on <a href="/wiki/Reinforcement_learning" title="Reinforcement learning">reinforcement learning</a>.</li> 
 <li><b><a href="/wiki/%C5%8Cfunato_wildfire" title="Ōfunato wildfire">A wildfire</a></b> in Japan\'s <a href="/wiki/Iwate_Prefecture" title="Iwate Prefecture">Iwate Prefecture</a> is the largest in the country in at least five decades.</li> 
 <li>Chinese architect <b><a href="/wiki/Liu_Jiakun" title="Liu Jiakun">Liu Jiakun</a></b> is awarded the <a href="/wiki/Pritzker_Architecture_Prize" title="Pritzker Architecture Prize">Pritzker Architecture Prize</a>.</li>
