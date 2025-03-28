@@ -1,6 +1,6 @@
 const content = `<ul>
 <li><b><a href="/wiki/2025_Indonesian_protests" title="2025 Indonesian protests">Nationwide protests</a></b> are held throughout Indonesia following the enactment of <a href="/wiki/Indonesian_National_Armed_Forces_Law" title="Indonesian National Armed Forces Law">legislation increasing military involvement in civilian government roles</a>.</li> 
 <li>Archaeologists announce the discovery of the <b><a href="/wiki/Melsonby_Hoard" title="Melsonby Hoard">Melsonby Hoard</a></b>, a collection of <a href="/wiki/Iron_Age" title="Iron Age">Iron Age</a> artefacts, in a field in <a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a>, England.</li> 
-<li><b><a href="/wiki/March_2025_South_Korea_wildfires" title="March 2025 South Korea wildfires">Multiple wildfires</a></b> in South Korea leave at least 28 people dead.</li> 
-<li>Zimbabwean <a href="/wiki/Kirsty_Coventry" title="Kirsty Coventry">Kirsty Coventry</a> <b><a href="/wiki/144th_IOC_Session" title="144th IOC Session">is elected</a></b> as the first female president of the <a href="/wiki/International_Olympic_Committee" title="International Olympic Committee">International Olympic Committee</a> and the first from an African country.</li>
+<li>American <a href="/wiki/List_of_world_heavyweight_boxing_champions" title="List of world heavyweight boxing champions">world heavyweight boxing champion</a> <b><a href="/wiki/George_Foreman" title="George Foreman">George Foreman</a></b> dies at the age of 76.</li> 
+<li><b><a href="/wiki/March_2025_South_Korea_wildfires" title="March 2025 South Korea wildfires">Multiple wildfires</a></b> in South Korea leave at least 28 people dead.</li>
 </ul>`;
