@@ -1,5 +1,5 @@
 const content = `<ul>
-<li><b><a href="/wiki/2025_Myanmar_earthquake" title="2025 Myanmar earthquake">A magnitude-7.7 earthquake</a></b> leaves more than 100 people dead in Myanmar and Thailand.</li> 
+<li><b><a href="/wiki/2025_Myanmar_earthquake" title="2025 Myanmar earthquake">A magnitude-7.7 earthquake</a></b> leaves more than 200 people dead in Myanmar and Thailand.</li> 
 <li><b><a href="/wiki/2025_Indonesian_protests" title="2025 Indonesian protests">Nationwide protests</a></b> are held throughout Indonesia following the enactment of <a href="/wiki/Indonesian_National_Armed_Forces_Law" title="Indonesian National Armed Forces Law">legislation increasing military involvement in civilian government roles</a>.</li> 
 <li>Archaeologists announce the discovery of the <b><a href="/wiki/Melsonby_Hoard" title="Melsonby Hoard">Melsonby Hoard</a></b>, a collection of <a href="/wiki/Iron_Age" title="Iron Age">Iron Age</a> artefacts, in a field in <a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a>, England.</li> 
 <li>American <a href="/wiki/List_of_world_heavyweight_boxing_champions" title="List of world heavyweight boxing champions">world heavyweight boxing champion</a> <b><a href="/wiki/George_Foreman" title="George Foreman">George Foreman</a></b> dies at the age of 76.</li>
