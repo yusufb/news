@@ -1,6 +1,6 @@
 const content = `<ul>
+<li>In Canada, the <a href="/wiki/Liberal_Party_of_Canada" title="Liberal Party of Canada">Liberal Party</a>, led by Prime Minister <a href="/wiki/Mark_Carney" title="Mark Carney">Mark Carney</a>, is reelected to a <a href="/wiki/Minority_government" title="Minority government">minority government</a> in the <b><a href="/wiki/2025_Canadian_federal_election" title="2025 Canadian federal election">federal election</a></b>.</li> 
 <li><b><a href="/wiki/Port_of_Shahid_Rajaee_explosion" title="Port of Shahid Rajaee explosion">An explosion and fire</a></b> at the <a href="/wiki/Port_of_Shahid_Rajaee" title="Port of Shahid Rajaee">Port of Shahid Rajaee</a>, Iran, kills at least 70 people and injures more than 1,200 others.</li> 
 <li>At least 11 people are killed in <b><a href="/wiki/2025_Vancouver_car_attack" title="2025 Vancouver car attack">a car-ramming attack</a></b> at a street festival in <a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>, Canada.</li> 
-<li>Militants <b><a href="/wiki/2025_Pahalgam_attack" title="2025 Pahalgam attack">attack</a></b> a group of tourists in <a href="/wiki/Jammu_and_Kashmir_(union_territory)" title="Jammu and Kashmir (union territory)">Indian-administered Kashmir</a>, killing 26 people.</li> 
-<li><b><a href="/wiki/Pope_Francis" title="Pope Francis">Pope Francis</a></b> <a href="/wiki/Death_and_funeral_of_Pope_Francis" title="Death and funeral of Pope Francis">dies</a> at the age of 88.</li>
+<li>Militants <b><a href="/wiki/2025_Pahalgam_attack" title="2025 Pahalgam attack">attack</a></b> a group of tourists in <a href="/wiki/Jammu_and_Kashmir_(union_territory)" title="Jammu and Kashmir (union territory)">Indian-administered Kashmir</a>, killing 26 people.</li>
 </ul>`;
