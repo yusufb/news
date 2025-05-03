@@ -1,7 +1,7 @@
 const content = `<ul>
 <li>In Canada, the <a href="/wiki/Liberal_Party_of_Canada" title="Liberal Party of Canada">Liberal Party</a>, led by Prime Minister <a href="/wiki/Mark_Carney" title="Mark Carney">Mark Carney</a>, wins the most seats in <b><a href="/wiki/2025_Canadian_federal_election" title="2025 Canadian federal election">the federal election</a></b>.</li> 
+<li>In Trinidad and Tobago, the <a href="/wiki/United_National_Congress" title="United National Congress">United National Congress</a> wins a majority in <b><a href="/wiki/2025_Trinidad_and_Tobago_general_election" title="2025 Trinidad and Tobago general election">the general election</a></b>.</li> 
 <li><b><a href="/wiki/2025_Iberian_Peninsula_blackout" title="2025 Iberian Peninsula blackout">A power outage</a></b> affects most of the <a href="/wiki/Iberian_Peninsula" title="Iberian Peninsula">Iberian Peninsula</a>.</li> 
 <li><b><a href="/wiki/Port_of_Shahid_Rajaee_explosion" title="Port of Shahid Rajaee explosion">An explosion and fire</a></b> at the <a href="/wiki/Port_of_Shahid_Rajaee" title="Port of Shahid Rajaee">Port of Shahid Rajaee</a>, Iran, kills at least 70 people and injures more than 1,200 others.</li> 
-<li>At least 11 people are killed in <b><a href="/wiki/2025_Vancouver_car_attack" title="2025 Vancouver car attack">a car-ramming attack</a></b> at a street festival in <a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>, Canada.</li> 
-<li>Militants <b><a href="/wiki/2025_Pahalgam_attack" title="2025 Pahalgam attack">attack</a></b> a group of tourists in <a href="/wiki/Jammu_and_Kashmir_(union_territory)" title="Jammu and Kashmir (union territory)">Indian-administered Kashmir</a>, killing 26 people.</li>
+<li>At least 11 people are killed in <b><a href="/wiki/2025_Vancouver_car_attack" title="2025 Vancouver car attack">a car-ramming attack</a></b> at a street festival in <a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>, Canada.</li>
 </ul>`;
