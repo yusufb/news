@@ -1,6 +1,6 @@
 const content = `<ul>
 <li>In <b><a href="/wiki/2025_Singaporean_general_election" title="2025 Singaporean general election">the Singaporean general election</a></b>, the <a href="/wiki/People%27s_Action_Party" title="People&#39;s Action Party">People\'s Action Party</a>, led by <a href="/wiki/Lawrence_Wong" title="Lawrence Wong">Lawrence Wong</a>, retains a <a href="/wiki/Supermajority" title="Supermajority">supermajority</a> of seats.</li> 
-<li>The <a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">Australian Labor Party</a> wins a majority in <b><a href="/wiki/2025_Australian_federal_election" title="2025 Australian federal election">the federal election</a></b>.</li> 
+<li>The <a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">Australian Labor Party</a> increases its majority in <b><a href="/wiki/2025_Australian_federal_election" title="2025 Australian federal election">the federal election</a></b>.</li> 
 <li>In Trinidad and Tobago, the <a href="/wiki/United_National_Congress" title="United National Congress">United National Congress</a> wins a majority in <b><a href="/wiki/2025_Trinidad_and_Tobago_general_election" title="2025 Trinidad and Tobago general election">the general election</a></b>.</li> 
 <li>In Canada, the <a href="/wiki/Liberal_Party_of_Canada" title="Liberal Party of Canada">Liberal Party</a> wins the most seats in <b><a href="/wiki/2025_Canadian_federal_election" title="2025 Canadian federal election">the federal election</a></b>.</li>
 </ul>`;
