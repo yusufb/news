@@ -1,6 +1,6 @@
 const content = `<ul>
 <li><b><a href="/wiki/Friedrich_Merz" title="Friedrich Merz">Friedrich Merz</a></b> is elected <a href="/wiki/Chancellor_of_Germany" title="Chancellor of Germany">Chancellor of Germany</a> and sworn in alongside <a href="/wiki/Merz_cabinet" title="Merz cabinet">his coalition government</a>.</li> 
-<li>India <b><a href="/wiki/2025_India%E2%80%93Pakistan_conflict" title="2025 India–Pakistan conflict">conducts missile strikes</a></b> on Pakistani targets, and Pakistan retaliates.</li> 
+<li>India <b><a href="/wiki/2025_India%E2%80%93Pakistan_strikes" title="2025 India–Pakistan strikes">conducts missile strikes</a></b> on Pakistani targets, and Pakistan retaliates.</li> 
 <li><a href="/wiki/Zhao_Xintong" title="Zhao Xintong">Zhao Xintong</a> defeats <a href="/wiki/Mark_Williams_(snooker_player)" title="Mark Williams (snooker player)">Mark Williams</a> to win <b><a href="/wiki/2025_World_Snooker_Championship" title="2025 World Snooker Championship">the World Snooker Championship</a></b>.</li> 
 <li>In <b><a href="/wiki/2025_Singaporean_general_election" title="2025 Singaporean general election">the Singaporean general election</a></b>, the <a href="/wiki/People%27s_Action_Party" title="People&#39;s Action Party">People\'s Action Party</a> retains a <a href="/wiki/Supermajority" title="Supermajority">supermajority</a> of seats.</li>
 </ul>`;
