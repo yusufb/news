@@ -3,5 +3,6 @@ const content = `<ul>
 <li>In cricket, <a href="/wiki/2025_Indian_Premier_League" title="2025 Indian Premier League">the Indian Premier League</a> concludes with <a href="/wiki/Royal_Challengers_Bengaluru" title="Royal Challengers Bengaluru">Royal Challengers Bengaluru</a> <b><a href="/wiki/2025_Indian_Premier_League_final" title="2025 Indian Premier League final">defeating</a></b> <a href="/wiki/Punjab_Kings" title="Punjab Kings">Punjab Kings</a>.</li> 
 <li><a href="/wiki/Karol_Nawrocki" title="Karol Nawrocki">Karol Nawrocki</a> <b><a href="/wiki/2025_Polish_presidential_election" title="2025 Polish presidential election">is elected</a></b> as <a href="/wiki/President_of_Poland" title="President of Poland">president of Poland</a>.</li> 
 <li><b><a href="/wiki/Josep-Llu%C3%ADs_Serrano_Pentinat" title="Josep-Lluís Serrano Pentinat">Josep-Lluís Serrano Pentinat</a></b> is sworn in as <a href="/wiki/Co-princes_of_Andorra" title="Co-princes of Andorra">episcopal co-prince of Andorra</a>.</li> 
-<li>Kenyan writer and activist <b><a href="/wiki/Ng%C5%A9g%C4%A9_wa_Thiong%27o" title="Ngũgĩ wa Thiong&#39;o">Ngũgĩ wa Thiong\'o</a></b> dies at the age of 87.</li>
+<li>Kenyan writer and activist <b><a href="/wiki/Ng%C5%A9g%C4%A9_wa_Thiong%27o" title="Ngũgĩ wa Thiong&#39;o">Ngũgĩ wa Thiong\'o</a></b> dies at the age of 87.</li> 
+<li><b><a href="/wiki/2025_Mokwa_flood" title="2025 Mokwa flood">Flooding</a></b> submerges the town of <a href="/wiki/Mokwa" title="Mokwa">Mokwa</a>, Nigeria, leaving more than 200 people dead.</li>
 </ul>`;
