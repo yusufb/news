@@ -1,5 +1,5 @@
 const content = `<ul>
-<li><b><a href="/wiki/July_2025_Central_Texas_floods" title="July 2025 Central Texas floods">Flooding in Central Texas</a></b>, United States, leaves more than 120 people dead.</li> 
+<li><b><a href="/wiki/July_2025_Central_Texas_floods" title="July 2025 Central Texas floods">Flooding in Central Texas</a></b>, United States, leaves at least 120 people dead.</li> 
 <li>Astronomers announce the discovery of <b><a href="/wiki/3I/ATLAS" title="3I/ATLAS">3I/ATLAS</a></b>, an <a href="/wiki/Interstellar_object" title="Interstellar object">interstellar object</a> passing through the <a href="/wiki/Solar_System" title="Solar System">Solar System</a>.</li> 
 <li>The <b><a href="/wiki/Vera_C._Rubin_Observatory" title="Vera C. Rubin Observatory">Vera C. Rubin Observatory</a></b> in Chile releases the <a href="/wiki/First_light_(astronomy)" title="First light (astronomy)">first light</a> images from its new 8.4-metre (28&nbsp;ft) telescope.</li> 
 <li>In basketball, the <a href="/wiki/Oklahoma_City_Thunder" title="Oklahoma City Thunder">Oklahoma City Thunder</a> defeat the <a href="/wiki/Indiana_Pacers" title="Indiana Pacers">Indiana Pacers</a> to win <b><a href="/wiki/2025_NBA_Finals" title="2025 NBA Finals">the NBA Finals</a></b>.</li>
