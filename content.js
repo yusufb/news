@@ -1,6 +1,6 @@
 const content = `<ul>
 <li>A fighter jet <b><a href="/wiki/2025_Dhaka_fighter_jet_crash" title="2025 Dhaka fighter jet crash">crashes into a college</a></b> in <a href="/wiki/Dhaka" title="Dhaka">Dhaka</a>, Bangladesh, killing at least 20 people.</li> 
-<li>In golf, <a href="/wiki/Scottie_Scheffler" title="Scottie Scheffler">Scottie Scheffler</a> wins <b><a href="/wiki/2025_Open_Championship" title="2025 Open Championship">the Open Championship</a></b>.</li> 
+<li>Tourist boat <i>Wonder Sea</i> <b><a href="/wiki/Sinking_of_the_Wonder_Sea" title="Sinking of the Wonder Sea">capsizes</a></b> during a thunderstorm in <a href="/wiki/H%E1%BA%A1_Long_Bay" title="Hạ Long Bay">Hạ Long Bay</a>, Vietnam, killing at least 36.</li> 
 <li>American singer <b><a href="/wiki/Connie_Francis" title="Connie Francis">Connie Francis</a></b>, the first woman to reach the top on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>, dies at the age of 87.</li> 
 <li><b><a href="/wiki/2025_Kut_shopping_mall_fire" title="2025 Kut shopping mall fire">A fire at a shopping mall</a></b> in <a href="/wiki/Kut" title="Kut">Kut</a>, <a href="/wiki/Wasit_Governorate" title="Wasit Governorate">Wasit Governorate</a>, Iraq, kills at least 69 people.</li>
 </ul>`;
