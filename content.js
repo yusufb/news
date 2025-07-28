@@ -3,5 +3,5 @@ const content = `<ul>
 <li>In cycling, <a href="/wiki/Tadej_Poga%C4%8Dar" title="Tadej Pogačar">Tadej Pogačar</a> wins <b><a href="/wiki/2025_Tour_de_France" title="2025 Tour de France">the Tour de France</a></b>.</li> 
 <li><b><a href="/wiki/Angara_Airlines_Flight_2311" title="Angara Airlines Flight 2311">A plane crash</a></b> in <a href="/wiki/Amur_Oblast" title="Amur Oblast">Amur Oblast</a>, Russia, kills 48 people.</li> 
 <li><b><a href="/wiki/2025_Cambodia%E2%80%93Thailand_border_conflict" title="2025 Cambodia–Thailand border conflict">Armed clashes erupt</a></b> on the <a href="/wiki/Cambodia%E2%80%93Thailand_border" title="Cambodia–Thailand border">Cambodia–Thailand border</a>, amid an ongoing conflict.</li> 
-<li>American professional wrestler <b><a href="/wiki/Hulk_Hogan" title="Hulk Hogan">Hulk Hogan</a></b> dies at the age of 71.</li>
+<li><b><a href="/wiki/Ozzy_Osbourne" title="Ozzy Osbourne">Ozzy Osbourne</a></b>, the lead singer of <a href="/wiki/Black_Sabbath" title="Black Sabbath">Black Sabbath</a>, dies at the age of 76.</li>
 </ul>`;
