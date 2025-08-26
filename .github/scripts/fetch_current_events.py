@@ -28,7 +28,18 @@ def remove_pictured(r):
   return r
 
 def process_content():
-  r = requests.get('https://en.wikipedia.org/wiki/Portal:Current_events').text
+  url = "https://en.wikipedia.org/w/api.php"
+  params = {
+      "action": "parse",
+      "page": "Portal:Current_events",
+      "format": "json",
+      "prop": "text"
+  }
+  headers = {"User-Agent": "yusufb/news/1.0 (https://github.com/yusufb)"}
+  r = requests.get(url, params=params, headers=headers, timeout=10)
+  r.raise_for_status()
+  data = r.json()
+  r = data["parse"]["text"]["*"]  
   r = r.split('id="Topics_in_the_news"', 1)[1].split('<ul>', 1)[1].split('</ul>', 1)[0]
   r = ' '.join(r.splitlines())
   ab = bleach.clean(r, attributes = {'a': ['href', 'title']}, strip=True)
