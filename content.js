@@ -1,7 +1,7 @@
 const content = `<ul>
+<li><b><a href="/wiki/Inga_Ruginien%C4%97" title="Inga Ruginienė">Inga Ruginienė</a></b> becomes <a href="/wiki/Prime_Minister_of_Lithuania" title="Prime Minister of Lithuania">prime minister of Lithuania</a>.</li> 
 <li>Former president of France <a href="/wiki/Nicolas_Sarkozy" title="Nicolas Sarkozy">Nicolas Sarkozy</a> <b><a href="/wiki/Alleged_Libyan_financing_in_the_2007_French_presidential_election" title="Alleged Libyan financing in the 2007 French presidential election">is convicted of corruption</a></b> and sentenced to five years in prison.</li> 
 <li><a href="/wiki/Peter_Mutharika" title="Peter Mutharika">Peter Mutharika</a> <b><a href="/wiki/2025_Malawian_general_election" title="2025 Malawian general election">is elected</a></b> <a href="/wiki/President_of_Malawi" title="President of Malawi">President of Malawi</a>.</li> 
 <li><b><a href="/wiki/Typhoon_Ragasa" title="Typhoon Ragasa">Typhoon Ragasa</a></b> leaves at least 28 people dead in Taiwan and the Philippines.</li> 
-<li>In an effort led by France, several Western states <b><a href="/wiki/International_recognition_of_Palestine" title="International recognition of Palestine">recognize Palestinian statehood</a></b>.</li> 
-<li>Saudi Arabia and Pakistan <b><a href="/wiki/Strategic_Mutual_Defence_Agreement" title="Strategic Mutual Defence Agreement">sign an agreement</a></b> to defend each other against attacks.</li>
+<li>In an effort led by France, several Western states <b><a href="/wiki/International_recognition_of_Palestine" title="International recognition of Palestine">recognize Palestinian statehood</a></b>.</li>
 </ul>`;
