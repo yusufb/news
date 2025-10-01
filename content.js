@@ -1,5 +1,5 @@
 const content = `<ul>
-<li>English <a href="/wiki/Zoology" title="Zoology">zoologist</a> and <a href="/wiki/Primatology" title="Primatology">primatologist</a> <b><a href="/wiki/Jane_Goodall" title="Jane Goodall">Jane Goodall</a></b> dies at the age of 91.</li> 
+<li>English <a href="/wiki/Zoology" title="Zoology">zoologist</a> and <a href="/wiki/Primatology" title="Primatology">primatologist</a> <b><a href="/wiki/Jane_Goodall" title="Jane Goodall">Jane Goodall</a></b>&#160; dies at the age of 91.</li> 
 <li><b><a href="/wiki/2025_Cebu_earthquake" title="2025 Cebu earthquake">A magnitude-6.9 earthquake</a></b> strikes <a href="/wiki/Cebu" title="Cebu">Cebu</a>, Philippines, leaving at least 69 people dead.</li> 
 <li>The ruling <a href="/wiki/Party_of_Action_and_Solidarity" title="Party of Action and Solidarity">Party of Action and Solidarity</a> retains its majority in <b><a href="/wiki/2025_Moldovan_parliamentary_election" title="2025 Moldovan parliamentary election">the Moldovan parliamentary election</a></b>.</li> 
 <li>In <a href="/wiki/Golf" title="Golf">golf</a>, <b><a href="/wiki/2025_Ryder_Cup" title="2025 Ryder Cup">the Ryder Cup</a></b> concludes with Europe defeating the United States.</li> 
