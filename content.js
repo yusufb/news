@@ -1,6 +1,6 @@
 const content = `<ul>
 <li>English <a href="/wiki/Zoology" title="Zoology">zoologist</a> and <a href="/wiki/Primatology" title="Primatology">primatologist</a> <b><a href="/wiki/Jane_Goodall" title="Jane Goodall">Jane Goodall</a></b>&#160; dies at the age of 91.</li> 
-<li><b><a href="/wiki/2025_Cebu_earthquake" title="2025 Cebu earthquake">A magnitude-6.9 earthquake</a></b> in <a href="/wiki/Cebu" title="Cebu">Cebu</a>, Philippines, leaves more than 70 people dead.</li> 
+<li><b><a href="/wiki/2025_Cebu_earthquake" title="2025 Cebu earthquake">A magnitude-6.9 earthquake</a></b> in <a href="/wiki/Cebu" title="Cebu">Cebu</a>, Philippines, leaves at least 68 people dead.</li> 
 <li>In Madagascar, Prime Minister <a href="/wiki/Christian_Ntsay" title="Christian Ntsay">Christian Ntsay</a>\'s government is dissolved amid <b><a href="/wiki/2025_Malagasy_protests" title="2025 Malagasy protests">protests against water and power cuts</a></b>.</li> 
 <li>The ruling <a href="/wiki/Party_of_Action_and_Solidarity" title="Party of Action and Solidarity">Party of Action and Solidarity</a> retains its majority in <b><a href="/wiki/2025_Moldovan_parliamentary_election" title="2025 Moldovan parliamentary election">the Moldovan parliamentary election</a></b>.</li>
 </ul>`;
