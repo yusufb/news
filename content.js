@@ -1,5 +1,6 @@
 const content = `<ul>
 <li><b><a href="/wiki/UPS_Airlines_Flight_2976" title="UPS Airlines Flight 2976">UPS Airlines Flight 2976</a></b> crashes after takeoff from <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">Louisville, Kentucky</a>, United States, killing at least 12 people.</li> 
+<li>The <b><a href="/wiki/2025_United_States_federal_government_shutdown" title="2025 United States federal government shutdown">United States federal government shutdown</a></b> surpasses 35 days, making it the longest in U.S. history.</li> 
 <li><b><a href="/wiki/Typhoon_Kalmaegi_(2025)" title="Typhoon Kalmaegi (2025)">Typhoon Kalmaegi</a></b> leaves at least 93 people dead in the Philippines.</li> 
 <li>Former <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">vice president of the United States</a> <b><a href="/wiki/Dick_Cheney" title="Dick Cheney">Dick Cheney</a></b> dies at the age of 84.</li> 
 <li>In baseball, the <a href="/wiki/Los_Angeles_Dodgers" title="Los Angeles Dodgers">Los Angeles Dodgers</a> defeat the <a href="/wiki/Toronto_Blue_Jays" title="Toronto Blue Jays">Toronto Blue Jays</a> to win <b><a href="/wiki/2025_World_Series" title="2025 World Series">the World Series</a></b>.</li> 
