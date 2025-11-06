@@ -1,7 +1,6 @@
 const content = `<ul>
+<li>A <b><a href="/wiki/2025_Tuzla_retirement_home_fire" title="2025 Tuzla retirement home fire">fire in a retirement home</a></b> in <a href="/wiki/Tuzla" title="Tuzla">Tuzla, Bosnia and Herzegovina</a> kills at least 12 people and injures at least 30.</li> 
 <li><b><a href="/wiki/UPS_Airlines_Flight_2976" title="UPS Airlines Flight 2976">UPS Airlines Flight 2976</a></b> crashes after takeoff from <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">Louisville, Kentucky</a>, United States, killing at least 12 people.</li> 
 <li>The <b><a href="/wiki/2025_United_States_federal_government_shutdown" title="2025 United States federal government shutdown">United States federal government shutdown</a></b> becomes the longest in U.S. history.</li> 
-<li><b><a href="/wiki/Typhoon_Kalmaegi" title="Typhoon Kalmaegi">Typhoon Kalmaegi</a></b> leaves more than 140 people dead in the Philippines.</li> 
-<li>Former <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">vice president of the United States</a> <b><a href="/wiki/Dick_Cheney" title="Dick Cheney">Dick Cheney</a></b> dies at the age of 84.</li> 
-<li>Mexican politician <b><a href="/wiki/Carlos_Manzo" title="Carlos Manzo">Carlos Manzo</a></b>, mayor of <a href="/wiki/Uruapan" title="Uruapan">Uruapan</a>, Michoacán, is assassinated during <a href="/wiki/Day_of_the_Dead" title="Day of the Dead">Day of the Dead</a> festivities.</li>
+<li><b><a href="/wiki/Typhoon_Kalmaegi" title="Typhoon Kalmaegi">Typhoon Kalmaegi</a></b> leaves more than 140 people dead in the Philippines.</li>
 </ul>`;
