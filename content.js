@@ -1,4 +1,5 @@
 const content = `<ul>
+<li>In Benin, <b><a href="/wiki/2025_Beninese_coup_attempt" title="2025 Beninese coup attempt">a coup attempt</a></b> by members of the armed forces is thwarted.</li> 
 <li>Architect and designer <b><a href="/wiki/Frank_Gehry" title="Frank Gehry">Frank Gehry</a></b> dies at the age of 96.</li> 
 <li>In Saint Lucia, the <a href="/wiki/Saint_Lucia_Labour_Party" title="Saint Lucia Labour Party">Labour Party</a>, led by Prime Minister <a href="/wiki/Philip_J._Pierre" title="Philip J. Pierre">Philip J. Pierre</a>, <b><a href="/wiki/2025_Saint_Lucian_general_election" title="2025 Saint Lucian general election">retains its majority</a></b> in the <a href="/wiki/House_of_Assembly_of_Saint_Lucia" title="House of Assembly of Saint Lucia">House of Assembly</a>.</li> 
 <li>Playwright and screenwriter <b><a href="/wiki/Tom_Stoppard" title="Tom Stoppard">Tom Stoppard</a></b> dies at the age of 88.</li> 
