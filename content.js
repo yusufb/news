@@ -1,7 +1,6 @@
 const content = `<ul>
+<li><i><a href="/wiki/Clair_Obscur:_Expedition_33" title="Clair Obscur: Expedition 33">Clair Obscur: Expedition 33</a></i> wins <a href="/wiki/The_Game_Award_for_Game_of_the_Year" title="The Game Award for Game of the Year">Game of the Year</a> at <b><a href="/wiki/The_Game_Awards_2025" title="The Game Awards 2025">the Game Awards</a></b>.</li> 
 <li>In Australia, <b><a href="/wiki/Online_Safety_Amendment" title="Online Safety Amendment">a ban</a></b> on the use of certain <a href="/wiki/Social_media" title="Social media">social media platforms</a> by under-16s comes into effect.</li> 
 <li>In motorsport, <a href="/wiki/Lando_Norris" title="Lando Norris">Lando Norris</a> wins <b><a href="/wiki/2025_Formula_One_World_Championship" title="2025 Formula One World Championship">the Formula One World Drivers\' Championship</a></b>.</li> 
-<li>In a military offensive, the <a href="/wiki/Southern_Transitional_Council" title="Southern Transitional Council">Southern Transitional Council</a> <b><a href="/wiki/2025_Hadhramaut_offensive" title="2025 Hadhramaut offensive">seizes most of southern Yemen</a></b> from the government.</li> 
-<li>In Benin, <b><a href="/wiki/2025_Beninese_coup_attempt" title="2025 Beninese coup attempt">a coup attempt</a></b> by members of the armed forces is thwarted.</li> 
-<li>Architect and designer <b><a href="/wiki/Frank_Gehry" title="Frank Gehry">Frank Gehry</a></b> dies at the age of 96.</li>
+<li>In a military offensive, the <a href="/wiki/Southern_Transitional_Council" title="Southern Transitional Council">Southern Transitional Council</a> <b><a href="/wiki/2025_Hadhramaut_offensive" title="2025 Hadhramaut offensive">seizes most of southern Yemen</a></b> from the government.</li>
 </ul>`;
