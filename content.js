@@ -1,5 +1,5 @@
 const content = `<ul>
-<li><b><a href="/wiki/Israel%E2%80%93Somaliland_relations" title="Israel–Somaliland relations">Israel officially recognises Somaliland</a></b> as an independent state, becoming the first country to do so.</li> 
+<li>Israel becomes the first country to <b><a href="/wiki/Israel%E2%80%93Somaliland_relations" title="Israel–Somaliland relations">officially recognise</a></b> Somaliland as an independent state.</li> 
 <li><b><a href="/wiki/Harmony_Jets_Flight_185" title="Harmony Jets Flight 185">A jet crash</a></b> near <a href="/wiki/Ankara" title="Ankara">Ankara</a>, Turkey, kills all eight people on board, including <a href="/wiki/Libyan_Army" title="Libyan Army">Libyan Army</a> chief of staff <a href="/wiki/Mohammed_al-Haddad" title="Mohammed al-Haddad">Mohammed al-Haddad</a>.</li> 
 <li><b><a href="/wiki/2025_Taipei_stabbings" title="2025 Taipei stabbings">A mass stabbing</a></b> in <a href="/wiki/Taipei" title="Taipei">Taipei</a>, Taiwan, leaves four people dead, including the perpetrator.</li> 
 <li>Bangladeshi activist <b><a href="/wiki/Osman_Hadi" title="Osman Hadi">Osman Hadi</a></b> is assassinated, triggering <a href="/wiki/December_2025_Bangladesh_violence" title="December 2025 Bangladesh violence">violent protests and arson</a>.</li> 
