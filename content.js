@@ -1,7 +1,7 @@
 const content = `<ul>
 <li>French actress and animal rights activist <b><a href="/wiki/Brigitte_Bardot" title="Brigitte Bardot">Brigitte Bardot</a></b> dies at the age of 91.</li> 
+<li>Thirteen people are killed and 98 are injured when a train <b><a href="/wiki/2025_Oaxaca_train_derailment" title="2025 Oaxaca train derailment">derails in Oaxaca</a></b>, Mexico.</li> 
 <li>Israel becomes the first country to <b><a href="/wiki/Israel%E2%80%93Somaliland_relations" title="Israel–Somaliland relations">officially recognise Somaliland</a></b> as an independent state.</li> 
 <li><a href="/wiki/Nasry_Asfura" title="Nasry Asfura">Nasry Asfura</a> <b><a href="/wiki/2025_Honduran_general_election" title="2025 Honduran general election">is elected</a></b> <a href="/wiki/President_of_Honduras" title="President of Honduras">president of Honduras</a>, after one month of controversy surrounding the vote counting process.</li> 
-<li><b><a href="/wiki/Harmony_Jets_Flight_185" title="Harmony Jets Flight 185">A jet crash</a></b> near <a href="/wiki/Ankara" title="Ankara">Ankara</a>, Turkey, kills all eight people on board, including <a href="/wiki/Libyan_Army" title="Libyan Army">Libyan Army</a> chief of staff <a href="/wiki/Mohammed_al-Haddad" title="Mohammed al-Haddad">Mohammed al-Haddad</a>.</li> 
-<li><b><a href="/wiki/2025_Taipei_stabbings" title="2025 Taipei stabbings">A mass stabbing</a></b> in <a href="/wiki/Taipei" title="Taipei">Taipei</a>, Taiwan, leaves four people dead, including the perpetrator.</li>
+<li><b><a href="/wiki/Harmony_Jets_Flight_185" title="Harmony Jets Flight 185">A jet crash</a></b> near <a href="/wiki/Ankara" title="Ankara">Ankara</a>, Turkey, kills all eight people on board, including <a href="/wiki/Libyan_Army" title="Libyan Army">Libyan Army</a> chief of staff <a href="/wiki/Mohammed_al-Haddad" title="Mohammed al-Haddad">Mohammed al-Haddad</a>.</li>
 </ul>`;
