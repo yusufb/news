@@ -1,5 +1,5 @@
 const content = `<ul>
-<li><b><a href="/wiki/2026_Crans-Montana_fire" title="2026 Crans-Montana fire">A fire</a></b> at a bar during <a href="/wiki/New_Year%27s_Eve" title="New Year&#39;s Eve">New Year\'s Eve</a> celebrations in <a href="/wiki/Crans-Montana" title="Crans-Montana">Crans-Montana</a>, Switzerland, kills at least 40 people.</li> 
+<li><b><a href="/wiki/2026_Crans-Montana_bar_fire" title="2026 Crans-Montana bar fire">A fire</a></b> at a bar during <a href="/wiki/New_Year%27s_Eve" title="New Year&#39;s Eve">New Year\'s Eve</a> celebrations in <a href="/wiki/Crans-Montana" title="Crans-Montana">Crans-Montana</a>, Switzerland, kills at least 40 people.</li> 
 <li>French actress and animal rights activist <b><a href="/wiki/Brigitte_Bardot" title="Brigitte Bardot">Brigitte Bardot</a></b> dies at the age of 91.</li> 
 <li>Thirteen people are killed when <b><a href="/wiki/2025_Oaxaca_train_derailment" title="2025 Oaxaca train derailment">a train derails</a></b> in <a href="/wiki/Oaxaca" title="Oaxaca">Oaxaca</a>, Mexico.</li> 
 <li>Israel becomes the first country to <b><a href="/wiki/Israel%E2%80%93Somaliland_relations" title="Israel–Somaliland relations">officially recognise Somaliland</a></b> as an independent state.</li> 
