@@ -1,7 +1,7 @@
 const content = `<ul>
 <li><b><a href="/wiki/2026_Crans-Montana_bar_fire" title="2026 Crans-Montana bar fire">A fire</a></b> at a bar during <a href="/wiki/New_Year%27s_Eve" title="New Year&#39;s Eve">New Year\'s Eve</a> celebrations in <a href="/wiki/Crans-Montana" title="Crans-Montana">Crans-Montana</a>, Switzerland, kills at least 40 people.</li> 
+<li>Bulgaria <b><a href="/wiki/Bulgaria_and_the_euro" title="Bulgaria and the euro">adopts the euro</a></b>, becoming the 21st member of the <a href="/wiki/Eurozone" title="Eurozone">eurozone</a>.</li> 
 <li>Former <a href="/wiki/Prime_Minister_of_Bangladesh" title="Prime Minister of Bangladesh">prime minister</a> of Bangladesh <b><a href="/wiki/Khaleda_Zia" title="Khaleda Zia">Khaleda Zia</a></b> dies at the age of 80.</li> 
 <li>In Iran, <b><a href="/wiki/2025%E2%80%932026_Iranian_protests" title="2025–2026 Iranian protests">a series of mass demonstrations</a></b> occur in response to worsening <a href="/wiki/Economy_of_Iran" title="Economy of Iran">economic conditions</a>.</li> 
-<li>€30 million worth of items <b><a href="/wiki/2025_Gelsenkirchen_heist" title="2025 Gelsenkirchen heist">are stolen from a bank</a></b> in <a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a>, Germany.</li> 
-<li>French actress and animal rights activist <b><a href="/wiki/Brigitte_Bardot" title="Brigitte Bardot">Brigitte Bardot</a></b> dies at the age of 91.</li>
+<li>€30 million worth of items <b><a href="/wiki/2025_Gelsenkirchen_heist" title="2025 Gelsenkirchen heist">are stolen from a bank</a></b> in <a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a>, Germany.</li>
 </ul>`;
