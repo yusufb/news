@@ -1,7 +1,7 @@
 const content = `<ul>
 <li><b><a href="/wiki/2026_Crans-Montana_bar_fire" title="2026 Crans-Montana bar fire">A fire</a></b> at a bar during <a href="/wiki/New_Year%27s_Eve" title="New Year&#39;s Eve">New Year\'s Eve</a> celebrations in <a href="/wiki/Crans-Montana" title="Crans-Montana">Crans-Montana</a>, Switzerland, kills at least 40 people.</li> 
-<li>French actress and animal rights activist <b><a href="/wiki/Brigitte_Bardot" title="Brigitte Bardot">Brigitte Bardot</a></b> dies at the age of 91.</li> 
-<li>Thirteen people are killed when <b><a href="/wiki/2025_Oaxaca_train_derailment" title="2025 Oaxaca train derailment">a train derails</a></b> in <a href="/wiki/Oaxaca" title="Oaxaca">Oaxaca</a>, Mexico.</li> 
-<li>Israel becomes the first country to <b><a href="/wiki/Israel%E2%80%93Somaliland_relations" title="Israel–Somaliland relations">officially recognise Somaliland</a></b> as an independent state.</li> 
-<li><a href="/wiki/Nasry_Asfura" title="Nasry Asfura">Nasry Asfura</a> <b><a href="/wiki/2025_Honduran_general_election" title="2025 Honduran general election">is elected</a></b> <a href="/wiki/President_of_Honduras" title="President of Honduras">president of Honduras</a>, after one month of controversy surrounding the vote counting process.</li>
+<li>Former <a href="/wiki/Prime_Minister_of_Bangladesh" title="Prime Minister of Bangladesh">prime minister</a> of Bangladesh <b><a href="/wiki/Khaleda_Zia" title="Khaleda Zia">Khaleda Zia</a></b> dies at the age of 80.</li> 
+<li>In Iran, <b><a href="/wiki/2025%E2%80%932026_Iranian_protests" title="2025–2026 Iranian protests">a series of mass demonstrations</a></b> occur in response to worsening <a href="/wiki/Economy_of_Iran" title="Economy of Iran">economic conditions</a>.</li> 
+<li>€30 million worth of items <b><a href="/wiki/2025_Gelsenkirchen_heist" title="2025 Gelsenkirchen heist">are stolen from a bank</a></b> in <a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a>, Germany.</li> 
+<li>French actress and animal rights activist <b><a href="/wiki/Brigitte_Bardot" title="Brigitte Bardot">Brigitte Bardot</a></b> dies at the age of 91.</li>
 </ul>`;
