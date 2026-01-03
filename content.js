@@ -1,5 +1,5 @@
 const content = `<ul>
-<li>The United States <b><a href="/wiki/2026_United_States_strikes_in_Venezuela" title="2026 United States strikes in Venezuela">strikes targets in Venezuela</a></b> and captures <a href="/wiki/Nicol%C3%A1s_Maduro" title="Nicolás Maduro">Nicolás Maduro</a>.</li> 
+<li>The United States <b><a href="/wiki/2026_United_States_strikes_in_Venezuela" title="2026 United States strikes in Venezuela">strikes targets in Venezuela</a></b> and captures President <a href="/wiki/Nicol%C3%A1s_Maduro" title="Nicolás Maduro">Nicolás Maduro</a>.</li> 
 <li><b><a href="/wiki/2026_Crans-Montana_bar_fire" title="2026 Crans-Montana bar fire">A fire</a></b> at a bar during <a href="/wiki/New_Year%27s_Eve" title="New Year&#39;s Eve">New Year\'s Eve</a> celebrations in <a href="/wiki/Crans-Montana" title="Crans-Montana">Crans-Montana</a>, Switzerland, kills at least 40 people.</li> 
 <li>Bulgaria <b><a href="/wiki/Bulgaria_and_the_euro" title="Bulgaria and the euro">adopts the euro</a></b>, becoming the 21st member of the <a href="/wiki/Eurozone" title="Eurozone">eurozone</a>.</li> 
 <li>Former <a href="/wiki/Prime_Minister_of_Bangladesh" title="Prime Minister of Bangladesh">prime minister</a> of Bangladesh <b><a href="/wiki/Khaleda_Zia" title="Khaleda Zia">Khaleda Zia</a></b> dies at a hospital in <a href="/wiki/Dhaka" title="Dhaka">Dhaka</a>.</li> 
