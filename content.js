@@ -1,6 +1,6 @@
 const content = `<ul>
+<li>Israel and the United States <b><a href="/wiki/2026_Israeli%E2%80%93United_States_strikes_on_Iran" title="2026 Israeli–United States strikes on Iran">launch military strikes on Iran</a></b>.</li> 
 <li><b><a href="/wiki/2026_Afghanistan%E2%80%93Pakistan_war" title="2026 Afghanistan–Pakistan war">A military conflict</a></b> between Afghanistan and Pakistan escalates as the countries exchange cross-border strikes.</li> 
 <li><b><a href="/wiki/Rob_Jetten" title="Rob Jetten">Rob Jetten</a></b> is sworn in as the <a href="/wiki/Prime_Minister_of_the_Netherlands" title="Prime Minister of the Netherlands">prime minister of the Netherlands</a>, leading <a href="/wiki/Jetten_cabinet" title="Jetten cabinet">a minority government</a>.</li> 
-<li><i><a href="/wiki/One_Battle_After_Another" title="One Battle After Another">One Battle After Another</a></i> wins <a href="/wiki/BAFTA_Award_for_Best_Film" title="BAFTA Award for Best Film">Best Film</a> at <b><a href="/wiki/79th_British_Academy_Film_Awards" title="79th British Academy Film Awards">the British Academy Film Awards</a></b>.</li> 
-<li><b><a href="/wiki/2026_Winter_Olympics" title="2026 Winter Olympics">The Winter Olympics</a></b> <a href="/wiki/2026_Winter_Olympics_closing_ceremony" title="2026 Winter Olympics closing ceremony">conclude</a> in <a href="/wiki/Verona" title="Verona">Verona</a>, Italy.</li>
+<li><i><a href="/wiki/One_Battle_After_Another" title="One Battle After Another">One Battle After Another</a></i> wins <a href="/wiki/BAFTA_Award_for_Best_Film" title="BAFTA Award for Best Film">Best Film</a> at <b><a href="/wiki/79th_British_Academy_Film_Awards" title="79th British Academy Film Awards">the British Academy Film Awards</a></b>.</li>
 </ul>`;
