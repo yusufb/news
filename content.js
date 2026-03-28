@@ -1,6 +1,6 @@
 const content = `<ul>
 <li>The <a href="/wiki/Social_Democrats_(Denmark)" title="Social Democrats (Denmark)">Social Democrats</a>, led by Prime Minister <a href="/wiki/Mette_Frederiksen" title="Mette Frederiksen">Mette Frederiksen</a>, remain the largest party after <b><a href="/wiki/2026_Danish_general_election" title="2026 Danish general election">the Danish general election</a></b>, with no political bloc winning a majority of seats.</li> 
-<li>In Italy, <b><a href="/wiki/2026_Italian_constitutional_referendum" title="2026 Italian constitutional referendum">a constitutional referendum</a></b> concerning the reform of judicial system is rejected.</li> 
+<li>In Italy, voters reject a reform of the judicial system in <b><a href="/wiki/2026_Italian_constitutional_referendum" title="2026 Italian constitutional referendum">a constitutional referendum</a></b>.</li> 
 <li>A <a href="/wiki/Colombian_Aerospace_Force" title="Colombian Aerospace Force">Colombian Aerospace Force</a> <b><a href="/wiki/2026_Colombian_Air_Force_Lockheed_C-130_crash" title="2026 Colombian Air Force Lockheed C-130 crash">Lockheed C-130 crashes</a></b> during take-off in <a href="/wiki/Puerto_Legu%C3%ADzamo" title="Puerto Leguízamo">Puerto Leguízamo</a>, killing 70 people.</li> 
 <li>In mathematics, <b><a href="/wiki/Gerd_Faltings" title="Gerd Faltings">Gerd Faltings</a></b> is awarded the <a href="/wiki/Abel_Prize" title="Abel Prize">Abel Prize</a> for his work in <a href="/wiki/Arithmetic_geometry" title="Arithmetic geometry">arithmetic geometry</a>.</li>
 </ul>`;
