@@ -1,6 +1,6 @@
 const content = `<ul>
 <li>The <a href="/wiki/Antigua_and_Barbuda_Labour_Party" title="Antigua and Barbuda Labour Party">Antigua and Barbuda Labour Party</a>, led by Prime Minister <a href="/wiki/Gaston_Browne" title="Gaston Browne">Gaston Browne</a>, wins an increased majority in <b><a href="/wiki/2026_Antiguan_general_election" title="2026 Antiguan general election">the general election</a></b>.</li> 
 <li><b><a href="/wiki/J._Craig_Venter" title="J. Craig Venter">J. Craig Venter</a></b>, who led the first commercial <a href="/wiki/Human_Genome_Project#Public_versus_private_approaches" title="Human Genome Project">sequencing of the human genome</a>, dies at the age of 79.</li> 
-<li><b><a href="/wiki/2026_Bekasi_train_crash" title="2026 Bekasi train crash">A train crash</a></b> near <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>, Indonesia, kills 16 people and injures 91 others.</li> 
+<li><b><a href="/wiki/2026_Bekasi_train_collision" title="2026 Bekasi train collision">A train collision</a></b> near <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>, Indonesia, kills 16 people and injures 91 others.</li> 
 <li>In <b><a href="/wiki/2026_London_Marathon" title="2026 London Marathon">the London Marathon</a></b>, <a href="/wiki/Sabastian_Sawe" title="Sabastian Sawe">Sabastian Sawe</a> and <a href="/wiki/Tigst_Assefa" title="Tigst Assefa">Tigst Assefa</a> win the men\'s and women\'s races, both setting <a href="/wiki/Marathon_world_record_progression" title="Marathon world record progression">world record times</a>.</li>
 </ul>`;
