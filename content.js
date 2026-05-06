@@ -1,6 +1,6 @@
 const content = `<ul>
 <li><a href="/wiki/Wu_Yize" title="Wu Yize">Wu Yize</a> defeats <a href="/wiki/Shaun_Murphy" title="Shaun Murphy">Shaun Murphy</a> to win <b><a href="/wiki/2026_World_Snooker_Championship" title="2026 World Snooker Championship">the World Snooker Championship</a></b>.</li> 
+<li><b><a href="/wiki/May_2026_Liuyang_fireworks_factory_explosion" title="May 2026 Liuyang fireworks factory explosion">An explosion</a></b> at a fireworks factory in <a href="/wiki/Liuyang" title="Liuyang">Liuyang</a>, Hunan, China, kills 26 people.</li> 
 <li>The <a href="/wiki/Antigua_and_Barbuda_Labour_Party" title="Antigua and Barbuda Labour Party">Antigua and Barbuda Labour Party</a>, led by Prime Minister <a href="/wiki/Gaston_Browne" title="Gaston Browne">Gaston Browne</a>, wins an increased majority in <b><a href="/wiki/2026_Antiguan_general_election" title="2026 Antiguan general election">the general election</a></b>.</li> 
-<li><b><a href="/wiki/J._Craig_Venter" title="J. Craig Venter">J. Craig Venter</a></b>, who led the first commercial <a href="/wiki/Human_Genome_Project#Public_versus_private_approaches" title="Human Genome Project">sequencing of the human genome</a>, dies at the age of 79.</li> 
-<li><b><a href="/wiki/2026_Bekasi_train_collision" title="2026 Bekasi train collision">A train collision</a></b> near <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>, Indonesia, kills 16 people and injures 91 others.</li>
+<li><b><a href="/wiki/J._Craig_Venter" title="J. Craig Venter">J. Craig Venter</a></b>, who led the first commercial <a href="/wiki/Human_Genome_Project#Public_versus_private_approaches" title="Human Genome Project">sequencing of the human genome</a>, dies at the age of 79.</li>
 </ul>`;
