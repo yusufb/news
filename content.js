@@ -1,6 +1,7 @@
 const content = `<ul>
+<li>American media proprietor and philanthropist <b><a href="/wiki/Ted_Turner" title="Ted Turner">Ted Turner</a></b> dies at the age of 87.</li> 
 <li><a href="/wiki/Wu_Yize" title="Wu Yize">Wu Yize</a> defeats <a href="/wiki/Shaun_Murphy" title="Shaun Murphy">Shaun Murphy</a> to win <b><a href="/wiki/2026_World_Snooker_Championship" title="2026 World Snooker Championship">the World Snooker Championship</a></b>.</li> 
 <li><b><a href="/wiki/2026_Liuyang_fireworks_factory_explosion" title="2026 Liuyang fireworks factory explosion">An explosion</a></b> at a fireworks factory in <a href="/wiki/Liuyang" title="Liuyang">Liuyang</a>, Hunan, China, kills 26 people.</li> 
 <li>In horse racing, <a href="/wiki/Golden_Tempo" title="Golden Tempo">Golden Tempo</a> wins <b><a href="/wiki/2026_Kentucky_Derby" title="2026 Kentucky Derby">the Kentucky Derby</a></b>.</li> 
-<li>The <a href="/wiki/Antigua_and_Barbuda_Labour_Party" title="Antigua and Barbuda Labour Party">Antigua and Barbuda Labour Party</a>, led by Prime Minister <a href="/wiki/Gaston_Browne" title="Gaston Browne">Gaston Browne</a>, wins an increased majority in <b><a href="/wiki/2026_Antiguan_general_election" title="2026 Antiguan general election">the general election</a></b>.</li>
+<li><b><a href="/wiki/EU%E2%80%93Mercosur_Partnership_Agreement" title="EU–Mercosur Partnership Agreement">A large partnership agreement</a></b> struck by the <a href="/wiki/European_Union" title="European Union">European Union</a> and <a href="/wiki/Mercosur" title="Mercosur">Mercosur</a> provisionally enters into force.</li>
 </ul>`;
