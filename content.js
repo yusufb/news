@@ -2,6 +2,6 @@ const content = `<ul>
 <li><b><a href="/wiki/MV_Hondius_hantavirus_outbreak" title="MV Hondius hantavirus outbreak">A hantavirus outbreak</a></b> on the cruise ship MV <i>Hondius </i> forces most of the remaining passengers to quarantine on board.</li> 
 <li>American media proprietor and philanthropist <b><a href="/wiki/Ted_Turner" title="Ted Turner">Ted Turner</a></b> dies at the age of 87.</li> 
 <li><a href="/wiki/Wu_Yize" title="Wu Yize">Wu Yize</a> defeats <a href="/wiki/Shaun_Murphy" title="Shaun Murphy">Shaun Murphy</a> to win <b><a href="/wiki/2026_World_Snooker_Championship" title="2026 World Snooker Championship">the World Snooker Championship</a></b>.</li> 
-<li><b><a href="/wiki/2026_Liuyang_fireworks_factory_explosion" title="2026 Liuyang fireworks factory explosion">An explosion</a></b> at a fireworks factory in <a href="/wiki/Liuyang" title="Liuyang">Liuyang</a>, Hunan, China, kills 26 people.</li> 
+<li><b><a href="/wiki/2026_Liuyang_fireworks_factory_explosion" title="2026 Liuyang fireworks factory explosion">An explosion</a></b> at a fireworks factory in <a href="/wiki/Liuyang" title="Liuyang">Liuyang</a>, Hunan, China, kills 37 people.</li> 
 <li>American <a href="/wiki/Low-cost_carrier" title="Low-cost carrier">low-cost carrier</a> <b><a href="/wiki/Spirit_Airlines" title="Spirit Airlines">Spirit Airlines</a></b> ceases operations after entering <a href="/wiki/Chapter_11,_Title_11,_United_States_Code" title="Chapter 11, Title 11, United States Code">Chapter 11 bankruptcy</a>.</li>
 </ul>`;
