@@ -1,7 +1,7 @@
 const content = `<ul>
+<li>The <a href="/wiki/Democratic_Rally" title="Democratic Rally">Democratic Rally</a>, led by <a href="/wiki/Annita_Demetriou" title="Annita Demetriou">Annita Demetriou</a>, wins a plurality of seats in the <b><a href="/wiki/2026_Cypriot_legislative_election" title="2026 Cypriot legislative election">Cypriot legislative election</a></b>.</li> 
 <li>American jazz saxophonist <b><a href="/wiki/Sonny_Rollins" title="Sonny Rollins">Sonny Rollins</a></b> dies at the age of 95.</li> 
 <li><b><a href="/wiki/2026_Quetta_train_bombing" title="2026 Quetta train bombing">A suicide bombing</a></b> targeting a shuttle train in <a href="/wiki/Quetta" title="Quetta">Quetta</a>, Balochistan, Pakistan, kills at least 47 people.</li> 
 <li>In association football, <a href="/wiki/Arsenal_F.C." title="Arsenal F.C.">Arsenal</a> win <b><a href="/wiki/2025%E2%80%9326_Premier_League" title="2025–26 Premier League">the Premier League</a></b>.</li> 
-<li><b><a href="/wiki/2026_Liushenyu_coal_mine_explosion" title="2026 Liushenyu coal mine explosion">A gas explosion</a></b> at a coal mine in <a href="/wiki/Changzhi" title="Changzhi">Changzhi</a>, Shanxi, China, leaves at least 82 people dead.</li> 
-<li>Author <b><a href="/wiki/Yang_Shuang-zi" title="Yang Shuang-zi">Yang Shuang-zi</a></b> and translator <a href="/wiki/Lin_King" title="Lin King">Lin King</a> win the <a href="/wiki/International_Booker_Prize" title="International Booker Prize">International Booker Prize</a> for <i><a href="/wiki/Taiwan_Travelogue" title="Taiwan Travelogue">Taiwan Travelogue</a></i>.</li>
+<li><b><a href="/wiki/2026_Liushenyu_coal_mine_explosion" title="2026 Liushenyu coal mine explosion">A gas explosion</a></b> at a coal mine in <a href="/wiki/Changzhi" title="Changzhi">Changzhi</a>, Shanxi, China, leaves at least 82 people dead.</li>
 </ul>`;
