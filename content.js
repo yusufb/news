@@ -2,6 +2,5 @@ const content = `<ul>
 <li><a href="/wiki/Pope_Leo_XIV" title="Pope Leo XIV">Pope Leo XIV</a> issues his first <a href="/wiki/Encyclical" title="Encyclical">encyclical</a>, <i><b><a href="/wiki/Magnifica_Humanitas" title="Magnifica Humanitas">Magnifica Humanitas</a></b></i>, which expresses concerns about <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>.</li> 
 <li>The <a href="/wiki/Democratic_Rally" title="Democratic Rally">Democratic Rally</a>, led by <a href="/wiki/Annita_Demetriou" title="Annita Demetriou">Annita Demetriou</a>, wins the most seats in the <b><a href="/wiki/2026_Cypriot_legislative_election" title="2026 Cypriot legislative election">Cypriot legislative election</a></b>.</li> 
 <li>American jazz saxophonist <b><a href="/wiki/Sonny_Rollins" title="Sonny Rollins">Sonny Rollins</a></b> dies at the age of 95.</li> 
-<li>In auto racing, <a href="/wiki/Felix_Rosenqvist" title="Felix Rosenqvist">Felix Rosenqvist</a> wins <b><a href="/wiki/2026_Indianapolis_500" title="2026 Indianapolis 500">the Indianapolis 500</a></b>.</li> 
-<li><b><a href="/wiki/2026_Quetta_train_bombing" title="2026 Quetta train bombing">A suicide bombing</a></b> targeting a shuttle train in <a href="/wiki/Quetta" title="Quetta">Quetta</a>, Balochistan, Pakistan, kills at least 47 people.</li>
+<li>In auto racing, <a href="/wiki/Felix_Rosenqvist" title="Felix Rosenqvist">Felix Rosenqvist</a> wins <b><a href="/wiki/2026_Indianapolis_500" title="2026 Indianapolis 500">the Indianapolis 500</a></b>.</li>
 </ul>`;
