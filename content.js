@@ -1,5 +1,5 @@
 const content = `<ul>
-<li>Artist <b><a href="/wiki/David_Hockney" title="David Hockney">David Hockney</a></b> dies at the age of 88.</li> 
+<li>English artist <b><a href="/wiki/David_Hockney" title="David Hockney">David Hockney</a></b> dies at the age of 88.</li> 
 <li>In Guinea\'s <b><a href="/wiki/2026_Guinean_parliamentary_election" title="2026 Guinean parliamentary election">first legislative election</a></b> since <a href="/wiki/2021_Guinean_coup_d%27%C3%A9tat" title="2021 Guinean coup d&#39;état">the 2021 coup</a>, President <a href="/wiki/Mamady_Doumbouya" title="Mamady Doumbouya">Mamady Doumbouya</a>\'s coalition, the <a href="/wiki/Generation_for_Modernity_and_Development" title="Generation for Modernity and Development">Generation for Modernity and Development</a>, wins the most seats in the <a href="/wiki/National_Assembly_(Guinea)" title="National Assembly (Guinea)">National Assembly</a>.</li> 
 <li>The <a href="/wiki/Civil_Contract_(Armenia)" title="Civil Contract (Armenia)">Civil Contract</a> party of incumbent prime minister <a href="/wiki/Nikol_Pashinyan" title="Nikol Pashinyan">Nikol Pashinyan</a> wins <b><a href="/wiki/2026_Armenian_parliamentary_election" title="2026 Armenian parliamentary election">the Armenian parliamentary election</a></b>.</li>
 </ul>`;
