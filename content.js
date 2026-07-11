@@ -1,5 +1,5 @@
 const content = `<ul>
-<li>The <a href="/wiki/International_Olympic_Committee" title="International Olympic Committee">International Olympic Committee</a> provisionally lifts its suspension of the <b><a href="/wiki/Russian_Olympic_Committee" title="Russian Olympic Committee">Russian Committee</a></b>.</li> 
+<li>The <a href="/wiki/International_Olympic_Committee" title="International Olympic Committee">IOC</a> provisionally lifts its suspension of the <b><a href="/wiki/Russian_Olympic_Committee" title="Russian Olympic Committee">Russian Olympic Committee</a></b>.</li> 
 <li>In cricket, <a href="/wiki/2026_Women%27s_T20_World_Cup" title="2026 Women&#39;s T20 World Cup">the Women\'s T20 World Cup</a> concludes with <a href="/wiki/Australia_women%27s_national_cricket_team" title="Australia women&#39;s national cricket team">Australia</a> defeating <a href="/wiki/England_women%27s_cricket_team" title="England women&#39;s cricket team">England</a> in <b><a href="/wiki/2026_Women%27s_T20_World_Cup_final" title="2026 Women&#39;s T20 World Cup final">the final</a></b>.</li> 
 <li><a href="/wiki/Keiko_Fujimori" title="Keiko Fujimori">Keiko Fujimori</a> <b><a href="/wiki/2026_Peruvian_general_election" title="2026 Peruvian general election">is elected</a></b> <a href="/wiki/President_of_Peru" title="President of Peru">President of Peru</a>.</li>
 </ul>`;
