@@ -1,4 +1,5 @@
 const content = `<ul>
+<li>Former <a href="/wiki/Emir_of_Qatar" title="Emir of Qatar">Emir of Qatar</a> <b><a href="/wiki/Hamad_bin_Khalifa_Al_Thani" title="Hamad bin Khalifa Al Thani">Hamad bin Khalifa Al Thani</a></b> dies at the age of 74.</li> 
 <li>Thirteen people are killed in <b><a href="/wiki/2026_Almer%C3%ADa_wildfire" title="2026 Almería wildfire">a&#160;wildfire</a></b> in <a href="/wiki/Province_of_Almer%C3%ADa" title="Province of Almería">Almería</a>, Spain.</li> 
 <li><b><a href="/wiki/July_2026_Balochistan_attacks" title="July 2026 Balochistan attacks">A series of coordinated attacks</a></b> across Pakistan\'s <a href="/wiki/Balochistan,_Pakistan" title="Balochistan, Pakistan">Balochistan</a> province leaves at least forty-two people dead.</li> 
 <li>The <a href="/wiki/International_Olympic_Committee" title="International Olympic Committee">IOC</a> provisionally lifts its suspension of the <b><a href="/wiki/Russian_Olympic_Committee" title="Russian Olympic Committee">Russian Olympic Committee</a></b>.</li> 
