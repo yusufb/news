@@ -1,6 +1,6 @@
 const content = `<ul>
 <li>Pakistan, Saudi Arabia and Turkey sign the <b><a href="/wiki/Mecca_Joint_Defence_Agreement" title="Mecca Joint Defence Agreement">Mecca Joint Defence Agreement</a></b>.</li> 
-<li><b><a href="/wiki/2026_Nonthaburi_shootings" title="2026 Nonthaburi shootings">Shootings</a></b> at a residence and a <a href="/wiki/Debsirin_School" title="Debsirin School">Debsirin School</a> branch in <a href="/wiki/Nonthaburi_province" title="Nonthaburi province">Nonthaburi province</a>, Thailand, leave at least nine people dead.</li> 
+<li><b><a href="/wiki/2026_Nonthaburi_shootings" title="2026 Nonthaburi shootings">Shootings</a></b> at a residence and a school in <a href="/wiki/Nonthaburi_province" title="Nonthaburi province">Nonthaburi province</a>, Thailand, leave at least nine people dead.</li> 
 <li>A consortium led by the <a href="/wiki/Public_Investment_Fund" title="Public Investment Fund">Public Investment Fund</a> <b><a href="/wiki/Leveraged_buyout_of_Electronic_Arts" title="Leveraged buyout of Electronic Arts">purchases</a></b> video game publisher <a href="/wiki/Electronic_Arts" title="Electronic Arts">Electronic Arts</a> in a <a href="/wiki/Leveraged_buyout" title="Leveraged buyout">leveraged buyout</a>.</li> 
 <li><b><a href="/wiki/2026_Broad_Peak_avalanche" title="2026 Broad Peak avalanche">An avalanche</a></b> on <a href="/wiki/Broad_Peak" title="Broad Peak">Broad Peak</a> in Pakistan kills ten climbers.</li>
 </ul>`;
