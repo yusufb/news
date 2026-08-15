@@ -1,6 +1,6 @@
 const content = `<ul>
 <li><b><a href="/wiki/Solar_eclipse_of_August_12,_2026" title="Solar eclipse of August 12, 2026">A solar eclipse</a></b> causes <a href="/wiki/Solar_eclipse#Eclipse_phases" title="Solar eclipse">totality</a> from Siberia to Iberia.</li> 
+<li>Former <a href="/wiki/Premier_of_China" title="Premier of China">premier of China</a> <b><a href="/wiki/Zhu_Rongji" title="Zhu Rongji">Zhu Rongji</a></b> dies at the age of 97.</li> 
 <li><b><a href="/wiki/2026_Colombia_earthquake" title="2026 Colombia earthquake">A magnitude-7.4 earthquake</a></b> strikes <a href="/wiki/Choc%C3%B3_Department" title="Chocó Department">Chocó Department</a>, Colombia, leaving at least 294 people dead.</li> 
-<li>In cycling, <a href="/wiki/Demi_Vollering" title="Demi Vollering">Demi Vollering</a> wins <b><a href="/wiki/2026_Tour_de_France_Femmes" title="2026 Tour de France Femmes">the Tour de France Femmes</a></b>.</li> 
-<li><b><a href="/wiki/2026_Nonthaburi_shootings" title="2026 Nonthaburi shootings">Shootings</a></b> at a residence and a school in <a href="/wiki/Nonthaburi_province" title="Nonthaburi province">Nonthaburi province</a>, Thailand, leave at least nine people dead.</li>
+<li>In cycling, <a href="/wiki/Demi_Vollering" title="Demi Vollering">Demi Vollering</a> wins <b><a href="/wiki/2026_Tour_de_France_Femmes" title="2026 Tour de France Femmes">the Tour de France Femmes</a></b>.</li>
 </ul>`;
