@@ -1,7 +1,7 @@
 const content = `<ul>
+<li>The <b><a href="/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria" title="Democratic Autonomous Administration of North and East Syria">Democratic Autonomous Administration of North and East Syria</a></b> ends its autonomous rule following its full integration into <a href="/wiki/Syria" title="Syria">Syria</a>.</li> 
+<li><a href="/wiki/President_of_Zambia" title="President of Zambia">President</a> <a href="/wiki/Hakainde_Hichilema" title="Hakainde Hichilema">Hakainde Hichilema</a> is declared the winner of the <b><a href="/wiki/2026_Zambian_general_election" title="2026 Zambian general election">Zambian general election</a></b> for a second consecutive term.</li> 
 <li><b><a href="/wiki/2026_Flores_earthquake" title="2026 Flores earthquake">A magnitude-7.7 earthquake</a></b> strikes off the coast of <a href="/wiki/Flores" title="Flores">Flores</a>, Indonesia, causing at least 83 deaths.</li> 
 <li>Former <a href="/wiki/Premier_of_China" title="Premier of China">premier of China</a> <b><a href="/wiki/Zhu_Rongji" title="Zhu Rongji">Zhu Rongji</a></b> dies at the age of 97.</li> 
-<li><b><a href="/wiki/Solar_eclipse_of_August_12,_2026" title="Solar eclipse of August 12, 2026">A solar eclipse</a></b> causes <a href="/wiki/Solar_eclipse#Eclipse_phases" title="Solar eclipse">totality</a> from Siberia to Iberia.</li> 
-<li><b><a href="/wiki/2026_Lake_Kariba_ferry_accident" title="2026 Lake Kariba ferry accident">A ferry capsizes</a></b> on <a href="/wiki/Lake_Kariba" title="Lake Kariba">Lake Kariba</a>, Zimbabwe, leaving at least 97 people dead.</li> 
-<li><b><a href="/wiki/2026_Colombia_earthquake" title="2026 Colombia earthquake">A magnitude-7.4 earthquake</a></b> strikes <a href="/wiki/Choc%C3%B3_Department" title="Chocó Department">Chocó Department</a>, Colombia, leaving at least 319 people dead.</li>
+<li><b><a href="/wiki/Solar_eclipse_of_August_12,_2026" title="Solar eclipse of August 12, 2026">A solar eclipse</a></b> causes <a href="/wiki/Solar_eclipse#Eclipse_phases" title="Solar eclipse">totality</a> from Siberia to Iberia.</li>
 </ul>`;
