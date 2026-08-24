@@ -1,5 +1,5 @@
 const content = `<ul>
-<li>The <b><a href="/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria" title="Democratic Autonomous Administration of North and East Syria">Democratic Autonomous Administration of North and East Syria</a></b> ends its autonomous rule following its full integration into Syria.</li> 
+<li>The <b><a href="/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria" title="Democratic Autonomous Administration of North and East Syria">Democratic Autonomous Administration of North and East Syria</a></b> ends its <a href="/wiki/Rojava_Revolution" title="Rojava Revolution">autonomous rule</a> following its full integration into Syria.</li> 
 <li>President <a href="/wiki/Hakainde_Hichilema" title="Hakainde Hichilema">Hakainde Hichilema</a> wins <b><a href="/wiki/2026_Zambian_general_election" title="2026 Zambian general election">the Zambian general election</a></b> for a second consecutive term.</li> 
 <li><b><a href="/wiki/2026_Flores_earthquake" title="2026 Flores earthquake">A magnitude-7.7 earthquake</a></b> strikes off the coast of <a href="/wiki/Flores" title="Flores">Flores</a>, Indonesia, causing at least 87 deaths.</li> 
 <li>Former <a href="/wiki/Premier_of_China" title="Premier of China">premier of China</a> <b><a href="/wiki/Zhu_Rongji" title="Zhu Rongji">Zhu Rongji</a></b> dies at the age of 97.</li> 
