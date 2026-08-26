@@ -2,5 +2,5 @@ const content = `<ul>
 <li>American singer-songwriter and actress <b><a href="/wiki/Dolly_Parton" title="Dolly Parton">Dolly Parton</a></b> dies at the age of 80.</li> 
 <li>The <b><a href="/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria" title="Democratic Autonomous Administration of North and East Syria">Democratic Autonomous Administration of North and East Syria</a></b> ends its <a href="/wiki/Rojava_Revolution" title="Rojava Revolution">autonomous rule</a> following its full integration into Syria.</li> 
 <li>President <a href="/wiki/Hakainde_Hichilema" title="Hakainde Hichilema">Hakainde Hichilema</a> wins <b><a href="/wiki/2026_Zambian_general_election" title="2026 Zambian general election">the Zambian general election</a></b> for a second consecutive term.</li> 
-<li><b><a href="/wiki/2026_Flores_earthquake" title="2026 Flores earthquake">A magnitude-7.7 earthquake</a></b> strikes off the coast of <a href="/wiki/Flores" title="Flores">Flores</a>, Indonesia, causing at least 100 deaths.</li>
+<li><b><a href="/wiki/2026_Flores_earthquake" title="2026 Flores earthquake">A magnitude-7.7 earthquake</a></b> strikes off the coast of <a href="/wiki/Flores" title="Flores">Flores</a>, Indonesia, causing at least 103 deaths.</li>
 </ul>`;
