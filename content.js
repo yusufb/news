@@ -1,6 +1,6 @@
 const content = `<ul>
 <li>American journalist and feminist activist <b><a href="/wiki/Gloria_Steinem" title="Gloria Steinem">Gloria Steinem</a></b> dies at the age of 92.</li> 
-<li>Duane Keith Davis is convicted of orchestrating <b><a href="/wiki/Murder_of_Tupac_Shakur" title="Murder of Tupac Shakur">the 1996 murder</a></b> of American rapper <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a>.</li> 
+<li>Duane Davis is convicted of orchestrating <b><a href="/wiki/Murder_of_Tupac_Shakur" title="Murder of Tupac Shakur">the 1996 murder</a></b> of American rapper <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a>.</li> 
 <li>In <b><a href="/wiki/2026_Icelandic_European_Union_membership_negotiations_referendum" title="2026 Icelandic European Union membership negotiations referendum">a referendum</a></b>, Icelanders reject <a href="/wiki/European_Union" title="European Union">European Union</a> membership negotiations.</li> 
 <li>The <b><a href="/wiki/Nancy_Grace_Roman_Space_Telescope" title="Nancy Grace Roman Space Telescope">Nancy Grace Roman Space Telescope</a></b> is launched towards its <a href="/wiki/Lagrange_point#L2_point" title="Lagrange point">Earth–Sun L2</a> operating orbit.</li> 
 <li><b><a href="/wiki/2026_Nigerien_coup_attempt" title="2026 Nigerien coup attempt">An attempted coup</a></b> against <a href="/wiki/National_Council_for_the_Safeguard_of_the_Homeland" title="National Council for the Safeguard of the Homeland">the military junta in Niger</a> fails.</li> 
