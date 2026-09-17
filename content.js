@@ -1,5 +1,5 @@
 const content = `<ul>
-<li><b><a href="/wiki/Sinking_of_the_Virgo_Transport_8" title="Sinking of the Virgo Transport 8">A ferry sinks</a></b> in the <a href="/wiki/Java_Sea" title="Java Sea">Java Sea</a>, resulting in at least six deaths.</li> 
+<li><b><a href="/wiki/Sinking_of_the_Virgo_Transport_8" title="Sinking of the Virgo Transport 8">A ferry sinks</a></b> in the <a href="/wiki/Java_Sea" title="Java Sea">Java Sea</a>, resulting in at least six deaths and more than a hundred others missing.</li> 
 <li><b><a href="/wiki/MV_June_Aster_ship_fire" title="MV June Aster ship fire">A ferry fire</a></b> off <a href="/wiki/Coron,_Palawan" title="Coron, Palawan">Coron, Palawan</a>, Philippines, kills at least seventy-seven people.</li> 
 <li>In Yemen, <b><a href="/wiki/2026_Yemen_offensives" title="2026 Yemen offensives">heavy fighting</a></b> between the <a href="/wiki/Houthis" title="Houthis">Houthis</a> and the <a href="/wiki/Presidential_Leadership_Council" title="Presidential Leadership Council">Presidential Leadership Council</a> leaves hundreds of people dead.</li> 
 <li>American journalist and feminist activist <b><a href="/wiki/Gloria_Steinem" title="Gloria Steinem">Gloria Steinem</a></b> dies at the age of 92.</li>
