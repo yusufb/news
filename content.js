@@ -1,6 +1,6 @@
 const content = `<ul>
-<li><b><a href="/wiki/Tilcayo" title="Tilcayo">A new species of tiger cat</a></b> is formally identified.</li> 
+<li>The <b><a href="/wiki/Tilcayo" title="Tilcayo">tilcayo</a></b>, a new species of tiger cat, is formally identified.</li> 
 <li>Former leader of Kosovo <b><a href="/wiki/Hashim_Tha%C3%A7i" title="Hashim Thaçi">Hashim Thaçi</a></b> is sentenced to twenty-five years in prison for <b><a href="/wiki/War_crimes_in_the_Kosovo_War#KLA_war_crimes" title="War crimes in the Kosovo War">war crimes during his leadership</a></b> of the <a href="/wiki/Kosovo_Liberation_Army" title="Kosovo Liberation Army">Kosovo Liberation Army</a>.</li> 
-<li>In Turkey, hundreds of people are arrested in <b><a href="/wiki/2026_Turkish_LGBTQ_raids" title="2026 Turkish LGBTQ raids">a crackdown on LGBTQ expression</a></b> and subsequent protests.</li> 
-<li><b><a href="/wiki/Sinking_of_the_Virgo_Transport_8" title="Sinking of the Virgo Transport 8">A ferry sinks</a></b> in the <a href="/wiki/Java_Sea" title="Java Sea">Java Sea</a>, resulting in at least nine deaths and more than a hundred others missing.</li>
+<li>At <b><a href="/wiki/78th_Primetime_Emmy_Awards" title="78th Primetime Emmy Awards">the Primetime Emmy Awards</a></b>, <i><a href="/wiki/Widow%27s_Bay" title="Widow&#39;s Bay">Widow\'s Bay</a></i> wins <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Comedy_Series" title="Primetime Emmy Award for Outstanding Comedy Series">Outstanding Comedy Series</a>, and <i><a href="/wiki/The_Pitt" title="The Pitt">The Pitt</a></i> wins <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Drama_Series" title="Primetime Emmy Award for Outstanding Drama Series">Outstanding Drama Series</a>.</li> 
+<li>In Turkey, hundreds of people are arrested in <b><a href="/wiki/2026_Turkish_LGBTQ_raids" title="2026 Turkish LGBTQ raids">a crackdown on LGBTQ expression</a></b> and subsequent protests.</li>
 </ul>`;
