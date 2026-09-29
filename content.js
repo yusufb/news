@@ -1,6 +1,5 @@
 const content = `<ul>
 <li><b><a href="/wiki/46th_Chess_Olympiad" title="46th Chess Olympiad">The Chess Olympiad</a></b> concludes with Uzbekistan winning the <a href="/wiki/Open_event_at_the_46th_Chess_Olympiad" title="Open event at the 46th Chess Olympiad">Open event</a> and China winning the <a href="/wiki/Women%27s_event_at_the_46th_Chess_Olympiad" title="Women&#39;s event at the 46th Chess Olympiad">Women\'s event</a>.</li> 
 <li>In <a href="/wiki/Australian_rules_football" title="Australian rules football">Australian rules football</a>, the <a href="/wiki/Brisbane_Lions" title="Brisbane Lions">Brisbane Lions</a> win their third premiership in a row, defeating <a href="/wiki/Fremantle_Football_Club" title="Fremantle Football Club">Fremantle</a> in <b><a href="/wiki/2026_AFL_Grand_Final" title="2026 AFL Grand Final">the AFL Grand Final</a></b>.</li> 
-<li><b><a href="/wiki/2026_Kohat_attack" title="2026 Kohat attack">An attack on a police complex</a></b> in <a href="/wiki/Kohat" title="Kohat">Kohat</a>, Pakistan, leaves at least 31 people dead.</li> 
-<li>The <b><a href="/wiki/Tilcayo" title="Tilcayo">tilcayo</a></b>, a new species of tiger cat, is formally identified.</li>
+<li><b><a href="/wiki/2026_Kohat_attack" title="2026 Kohat attack">An attack on a police complex</a></b> in <a href="/wiki/Kohat" title="Kohat">Kohat</a>, Pakistan, leaves at least 31 people dead.</li>
 </ul>`;
