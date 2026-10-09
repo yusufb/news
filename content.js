@@ -1,5 +1,5 @@
 const content = `<ul>
-<li>American computer scientist <b><a href="/wiki/Margaret_Hamilton_(software_engineer)" title="Margaret Hamilton (software engineer)">Margaret Hamilton</a></b> dies at the age of 90.</li> 
+<li>American software engineer <b><a href="/wiki/Margaret_Hamilton_(software_engineer)" title="Margaret Hamilton (software engineer)">Margaret Hamilton</a></b> dies at the age of 90.</li> 
 <li><b><a href="/wiki/Francis_Halzen" title="Francis Halzen">Francis Halzen</a></b> is awarded the <a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> for his work in <a href="/wiki/Neutrino_astronomy" title="Neutrino astronomy">neutrino astronomy</a>.</li> 
 <li>In <a href="/wiki/Motorsport" title="Motorsport">motorsport</a>, <a href="/wiki/Elfyn_Evans" title="Elfyn Evans">Elfyn Evans</a> and <a href="/wiki/Scott_Martin_(co-driver)" title="Scott Martin (co-driver)">Scott Martin</a> win <b><a href="/wiki/2026_World_Rally_Championship" title="2026 World Rally Championship">the World Rally Championship</a>.</b></li> 
 <li><b><a href="/wiki/2026_Spanish_general_election" title="2026 Spanish general election">A snap election</a></b> is announced following <b><a href="/wiki/2026_Spanish_housing_protests" title="2026 Spanish housing protests">widespread housing protests</a></b> in Spain.</li> 
