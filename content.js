@@ -1,7 +1,7 @@
 const content = `<ul>
-<li>At least 68 people are killed in <b><a href="/wiki/2026_Toledo_train_collision" title="2026 Toledo train collision">a collision between two high-speed trains</a></b> in <a href="/wiki/Province_of_Toledo" title="Province of Toledo">Toledo province</a>, Spain.</li> 
+<li>At least 69 people are killed in <b><a href="/wiki/2026_Toledo_train_collision" title="2026 Toledo train collision">a collision between two high-speed trains</a></b> in <a href="/wiki/Province_of_Toledo" title="Province of Toledo">Toledo province</a>, Spain.</li> 
 <li><a href="/wiki/Luiz_In%C3%A1cio_Lula_da_Silva" title="Luiz Inácio Lula da Silva">Luiz Inácio Lula da Silva</a> <b><a href="/wiki/2026_Brazilian_general_election" title="2026 Brazilian general election">is re-elected</a></b> <a href="/wiki/President_of_Brazil" title="President of Brazil">President of Brazil</a>.</li> 
 <li>In <b><a href="/wiki/2026_Serbian_parliamentary_election" title="2026 Serbian parliamentary election">the Serbian parliamentary election</a></b>, the <a href="/wiki/Student_List" title="Student List">Student List</a> wins a majority of seats, defeating former president <a href="/wiki/Aleksandar_Vu%C4%8Di%C4%87" title="Aleksandar Vučić">Aleksandar Vučić</a> and his <a href="/wiki/Serbian_Progressive_Party" title="Serbian Progressive Party">Serbian Progressive Party</a>.</li> 
 <li>In Jordan, <b><a href="/wiki/2026_Karak_church_shooting" title="2026 Karak church shooting">a mass shooting at a church</a></b> leaves nine people dead.</li> 
-<li>At least 16 people are killed in a magnitude 7.0 <b><a href="/wiki/2026_Tibet_earthquake" title="2026 Tibet earthquake">earthquake</a></b> in northern <a href="/wiki/Tibet" title="Tibet">Tibet</a>.</li>
+<li>At least 16 people are killed in a magnitude 7.0 <b><a href="/wiki/2026_Tibet_earthquake" title="2026 Tibet earthquake">earthquake</a></b> in northern Tibet.</li>
 </ul>`;
