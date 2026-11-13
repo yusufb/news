@@ -1,6 +1,6 @@
 const content = `<ul>
+<li><a href="/wiki/Nvidia" title="Nvidia">Nvidia</a> CEO <b><a href="/wiki/Jensen_Huang" title="Jensen Huang">Jensen Huang</a></b> resigns amidst allegations of <b><a href="/wiki/Jensen_Huang_spying_scandal" title="Jensen Huang spying scandal">being targeted by Chinese spies</a></b> and of having extramarital affairs.</li> 
 <li><i><b><a href="/wiki/The_End_of_Everything_(Harrison_novel)" title="The End of Everything (Harrison novel)">The End of Everything</a></b></i> by <a href="/wiki/M._John_Harrison" title="M. John Harrison">M. John Harrison</a> wins the <a href="/wiki/Booker_Prize" title="Booker Prize">Booker Prize</a>.</li> 
 <li><i><b><a href="/wiki/Novaya_Gazeta" title="Novaya Gazeta">Novaya Gazeta</a></b></i>, one of Russia\'s oldest and most prominent independent newspapers, closes under pressure from the Russian authorities.</li> 
-<li>In stock car racing, <a href="/wiki/Kyle_Larson" title="Kyle Larson">Kyle Larson</a> wins <b><a href="/wiki/2026_NASCAR_Cup_Series" title="2026 NASCAR Cup Series">the NASCAR Cup Series</a></b>.</li> 
-<li><b><a href="/wiki/2026_Krak%C3%B3w_shooting" title="2026 Kraków shooting">A mass shooting</a></b> in the <a href="/wiki/Main_Square,_Krak%C3%B3w" title="Main Square, Kraków">Main Square</a> of <a href="/wiki/Krak%C3%B3w" title="Kraków">Kraków</a>, Poland, leaves six people dead and sixteen others injured.</li>
+<li>In stock car racing, <a href="/wiki/Kyle_Larson" title="Kyle Larson">Kyle Larson</a> wins <b><a href="/wiki/2026_NASCAR_Cup_Series" title="2026 NASCAR Cup Series">the NASCAR Cup Series</a></b>.</li>
 </ul>`;
